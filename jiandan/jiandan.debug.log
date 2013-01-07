@@ -1,0 +1,598 @@
+INFO main com.tony.jiandan.util.CompilerUtil - Failed to Compile : /Users/wuyuehao/workspace/esp-objects/src/main/java/com/ibm/esp/objects/enums/RFxStatus.java:3: 软件包 org.apache.commons.lang.builder 不存在
+INFO main com.tony.jiandan.util.CompilerUtil - Failed to Compile : /Users/wuyuehao/workspace/esp-objects/src/main/java/com/ibm/esp/objects/codegen/CriteriaCodeGenerator.java:9: 软件包 org.jannocessor.collection.api 不存在
+INFO main com.tony.jiandan.util.CompilerUtil - Failed to Compile : /Users/wuyuehao/workspace/esp-objects/src/main/java/com/ibm/esp/objects/codegen/CriteriaCodeGenerator.java:10: 软件包 org.jannocessor.extra.processor 不存在
+INFO main com.tony.jiandan.util.CompilerUtil - Failed to Compile : /Users/wuyuehao/workspace/esp-objects/src/main/java/com/ibm/esp/objects/codegen/CriteriaCodeGenerator.java:11: 软件包 org.jannocessor.model.executable 不存在
+INFO main com.tony.jiandan.util.CompilerUtil - Failed to Compile : /Users/wuyuehao/workspace/esp-objects/src/main/java/com/ibm/esp/objects/codegen/CriteriaCodeGenerator.java:12: 软件包 org.jannocessor.model.structure 不存在
+INFO main com.tony.jiandan.util.CompilerUtil - Failed to Compile : /Users/wuyuehao/workspace/esp-objects/src/main/java/com/ibm/esp/objects/codegen/CriteriaCodeGenerator.java:13: 软件包 org.jannocessor.model.structure 不存在
+INFO main com.tony.jiandan.util.CompilerUtil - Failed to Compile : /Users/wuyuehao/workspace/esp-objects/src/main/java/com/ibm/esp/objects/codegen/CriteriaCodeGenerator.java:14: 软件包 org.jannocessor.model.type 不存在
+INFO main com.tony.jiandan.util.CompilerUtil - Failed to Compile : /Users/wuyuehao/workspace/esp-objects/src/main/java/com/ibm/esp/objects/codegen/CriteriaCodeGenerator.java:15: 软件包 org.jannocessor.model.util 不存在
+INFO main com.tony.jiandan.util.CompilerUtil - Failed to Compile : /Users/wuyuehao/workspace/esp-objects/src/main/java/com/ibm/esp/objects/codegen/CriteriaCodeGenerator.java:16: 软件包 org.jannocessor.model.util 不存在
+INFO main com.tony.jiandan.util.CompilerUtil - Failed to Compile : /Users/wuyuehao/workspace/esp-objects/src/main/java/com/ibm/esp/objects/codegen/CriteriaCodeGenerator.java:17: 软件包 org.jannocessor.model.variable 不存在
+INFO main com.tony.jiandan.util.CompilerUtil - Failed to Compile : /Users/wuyuehao/workspace/esp-objects/src/main/java/com/ibm/esp/objects/codegen/CriteriaCodeGenerator.java:18: 软件包 org.jannocessor.processor.api 不存在
+INFO main com.tony.jiandan.util.CompilerUtil - Failed to Compile : /Users/wuyuehao/workspace/esp-objects/src/main/java/com/ibm/esp/objects/codegen/CriteriaCodeGenerator.java:38: 找不到符号
+符号： 类 AbstractGenerator
+INFO main com.tony.jiandan.util.CompilerUtil - Failed to Compile : /Users/wuyuehao/workspace/esp-objects/src/main/java/com/ibm/esp/objects/codegen/CriteriaCodeGenerator.java:38: 找不到符号
+符号： 类 JavaClass
+INFO main com.tony.jiandan.util.CompilerUtil - Failed to Compile : /Users/wuyuehao/workspace/esp-objects/src/main/java/com/ibm/esp/objects/codegen/CriteriaCodeGenerator.java:46: 找不到符号
+符号： 类 JavaType
+位置： 类 com.ibm.esp.objects.codegen.CriteriaCodeGenerator
+INFO main com.tony.jiandan.util.CompilerUtil - Failed to Compile : /Users/wuyuehao/workspace/esp-objects/src/main/java/com/ibm/esp/objects/codegen/CriteriaCodeGenerator.java:46: 找不到符号
+符号： 类 JavaType
+位置： 类 com.ibm.esp.objects.codegen.CriteriaCodeGenerator
+INFO main com.tony.jiandan.util.CompilerUtil - Failed to Compile : /Users/wuyuehao/workspace/esp-objects/src/main/java/com/ibm/esp/objects/codegen/CriteriaCodeGenerator.java:51: 找不到符号
+符号： 类 PowerList
+位置： 类 com.ibm.esp.objects.codegen.CriteriaCodeGenerator
+INFO main com.tony.jiandan.util.CompilerUtil - Failed to Compile : /Users/wuyuehao/workspace/esp-objects/src/main/java/com/ibm/esp/objects/codegen/CriteriaCodeGenerator.java:51: 找不到符号
+符号： 类 JavaClass
+位置： 类 com.ibm.esp.objects.codegen.CriteriaCodeGenerator
+INFO main com.tony.jiandan.util.CompilerUtil - Failed to Compile : /Users/wuyuehao/workspace/esp-objects/src/main/java/com/ibm/esp/objects/codegen/CriteriaCodeGenerator.java:51: 找不到符号
+符号： 类 ProcessingContext
+位置： 类 com.ibm.esp.objects.codegen.CriteriaCodeGenerator
+INFO main com.tony.jiandan.util.CompilerUtil - Failed to Compile : /Users/wuyuehao/workspace/esp-objects/src/main/java/com/ibm/esp/objects/codegen/FetchCodeGenerator.java:10: 软件包 org.jannocessor.collection.api 不存在
+INFO main com.tony.jiandan.util.CompilerUtil - Failed to Compile : /Users/wuyuehao/workspace/esp-objects/src/main/java/com/ibm/esp/objects/codegen/FetchCodeGenerator.java:11: 软件包 org.jannocessor.extra.processor 不存在
+INFO main com.tony.jiandan.util.CompilerUtil - Failed to Compile : /Users/wuyuehao/workspace/esp-objects/src/main/java/com/ibm/esp/objects/codegen/FetchCodeGenerator.java:12: 软件包 org.jannocessor.model.executable 不存在
+INFO main com.tony.jiandan.util.CompilerUtil - Failed to Compile : /Users/wuyuehao/workspace/esp-objects/src/main/java/com/ibm/esp/objects/codegen/FetchCodeGenerator.java:13: 软件包 org.jannocessor.model.structure 不存在
+INFO main com.tony.jiandan.util.CompilerUtil - Failed to Compile : /Users/wuyuehao/workspace/esp-objects/src/main/java/com/ibm/esp/objects/codegen/FetchCodeGenerator.java:14: 软件包 org.jannocessor.model.structure 不存在
+INFO main com.tony.jiandan.util.CompilerUtil - Failed to Compile : /Users/wuyuehao/workspace/esp-objects/src/main/java/com/ibm/esp/objects/codegen/FetchCodeGenerator.java:15: 软件包 org.jannocessor.model.type 不存在
+INFO main com.tony.jiandan.util.CompilerUtil - Failed to Compile : /Users/wuyuehao/workspace/esp-objects/src/main/java/com/ibm/esp/objects/codegen/FetchCodeGenerator.java:16: 软件包 org.jannocessor.model.util 不存在
+INFO main com.tony.jiandan.util.CompilerUtil - Failed to Compile : /Users/wuyuehao/workspace/esp-objects/src/main/java/com/ibm/esp/objects/codegen/FetchCodeGenerator.java:17: 软件包 org.jannocessor.model.util 不存在
+INFO main com.tony.jiandan.util.CompilerUtil - Failed to Compile : /Users/wuyuehao/workspace/esp-objects/src/main/java/com/ibm/esp/objects/codegen/FetchCodeGenerator.java:18: 软件包 org.jannocessor.model.util 不存在
+INFO main com.tony.jiandan.util.CompilerUtil - Failed to Compile : /Users/wuyuehao/workspace/esp-objects/src/main/java/com/ibm/esp/objects/codegen/FetchCodeGenerator.java:19: 软件包 org.jannocessor.model.variable 不存在
+INFO main com.tony.jiandan.util.CompilerUtil - Failed to Compile : /Users/wuyuehao/workspace/esp-objects/src/main/java/com/ibm/esp/objects/codegen/FetchCodeGenerator.java:20: 软件包 org.jannocessor.processor.api 不存在
+INFO main com.tony.jiandan.util.CompilerUtil - Failed to Compile : /Users/wuyuehao/workspace/esp-objects/src/main/java/com/ibm/esp/objects/codegen/FetchCodeGenerator.java:27: 找不到符号
+符号： 类 AbstractGenerator
+INFO main com.tony.jiandan.util.CompilerUtil - Failed to Compile : /Users/wuyuehao/workspace/esp-objects/src/main/java/com/ibm/esp/objects/codegen/FetchCodeGenerator.java:27: 找不到符号
+符号： 类 JavaClass
+INFO main com.tony.jiandan.util.CompilerUtil - Failed to Compile : /Users/wuyuehao/workspace/esp-objects/src/main/java/com/ibm/esp/objects/codegen/FetchCodeGenerator.java:37: 找不到符号
+符号： 类 JavaType
+位置： 类 com.ibm.esp.objects.codegen.FetchCodeGenerator
+INFO main com.tony.jiandan.util.CompilerUtil - Failed to Compile : /Users/wuyuehao/workspace/esp-objects/src/main/java/com/ibm/esp/objects/codegen/FetchCodeGenerator.java:37: 找不到符号
+符号： 类 JavaType
+位置： 类 com.ibm.esp.objects.codegen.FetchCodeGenerator
+INFO main com.tony.jiandan.util.CompilerUtil - Failed to Compile : /Users/wuyuehao/workspace/esp-objects/src/main/java/com/ibm/esp/objects/codegen/FetchCodeGenerator.java:42: 找不到符号
+符号： 类 PowerList
+位置： 类 com.ibm.esp.objects.codegen.FetchCodeGenerator
+INFO main com.tony.jiandan.util.CompilerUtil - Failed to Compile : /Users/wuyuehao/workspace/esp-objects/src/main/java/com/ibm/esp/objects/codegen/FetchCodeGenerator.java:42: 找不到符号
+符号： 类 JavaClass
+位置： 类 com.ibm.esp.objects.codegen.FetchCodeGenerator
+INFO main com.tony.jiandan.util.CompilerUtil - Failed to Compile : /Users/wuyuehao/workspace/esp-objects/src/main/java/com/ibm/esp/objects/codegen/FetchCodeGenerator.java:42: 找不到符号
+符号： 类 ProcessingContext
+位置： 类 com.ibm.esp.objects.codegen.FetchCodeGenerator
+INFO main com.tony.jiandan.util.CompilerUtil - Failed to Compile : /Users/wuyuehao/workspace/esp-objects/src/main/java/org/jannocessor/config/Processors.java:3: 软件包 org.jannocessor.model.structure 不存在
+INFO main com.tony.jiandan.util.CompilerUtil - Failed to Compile : /Users/wuyuehao/workspace/esp-objects/src/main/java/org/jannocessor/config/Processors.java:4: 软件包 org.jannocessor.processor.annotation 不存在
+INFO main com.tony.jiandan.util.CompilerUtil - Failed to Compile : /Users/wuyuehao/workspace/esp-objects/src/main/java/org/jannocessor/config/Processors.java:5: 软件包 org.jannocessor.processor.annotation 不存在
+INFO main com.tony.jiandan.util.CompilerUtil - Failed to Compile : /Users/wuyuehao/workspace/esp-objects/src/main/java/org/jannocessor/config/Processors.java:14: 找不到符号
+符号： 类 Annotated
+位置： 类 org.jannocessor.config.Processors
+INFO main com.tony.jiandan.util.CompilerUtil - Failed to Compile : /Users/wuyuehao/workspace/esp-objects/src/main/java/org/jannocessor/config/Processors.java:15: 找不到符号
+符号： 类 Types
+位置： 类 org.jannocessor.config.Processors
+INFO main com.tony.jiandan.util.CompilerUtil - Failed to Compile : /Users/wuyuehao/workspace/esp-objects/src/main/java/org/jannocessor/config/Processors.java:20: 找不到符号
+符号： 类 Annotated
+位置： 类 org.jannocessor.config.Processors
+INFO main com.tony.jiandan.util.CompilerUtil - Failed to Compile : /Users/wuyuehao/workspace/esp-objects/src/main/java/org/jannocessor/config/Processors.java:21: 找不到符号
+符号： 类 Types
+位置： 类 org.jannocessor.config.Processors
+INFO main com.tony.jiandan.util.CompilerUtil - Failed to Compile : /Users/wuyuehao/workspace/esp-objects/src/main/java/com/ibm/esp/objects/AccessControl.java:115: 找不到符号
+符号： 变量 EqualsBuilder
+位置： 类 com.ibm.esp.objects.AccessControl
+INFO main com.tony.jiandan.util.CompilerUtil - Failed to Compile : /Users/wuyuehao/workspace/esp-objects/src/main/java/com/ibm/esp/objects/AccessControl.java:120: 找不到符号
+符号： 变量 HashCodeBuilder
+位置： 类 com.ibm.esp.objects.AccessControl
+INFO main com.tony.jiandan.util.CompilerUtil - Failed to Compile : /Users/wuyuehao/workspace/esp-objects/src/main/java/com/ibm/esp/objects/AccessControl.java:125: 找不到符号
+符号： 变量 ReflectionToStringBuilder
+位置： 类 com.ibm.esp.objects.AccessControl
+INFO main com.tony.jiandan.util.CompilerUtil - Failed to Compile : /Users/wuyuehao/workspace/esp-objects/src/main/java/com/ibm/esp/objects/UserGroup.java:100: 找不到符号
+符号： 变量 EqualsBuilder
+位置： 类 com.ibm.esp.objects.UserGroup
+INFO main com.tony.jiandan.util.CompilerUtil - Failed to Compile : /Users/wuyuehao/workspace/esp-objects/src/main/java/com/ibm/esp/objects/UserGroup.java:105: 找不到符号
+符号： 变量 HashCodeBuilder
+位置： 类 com.ibm.esp.objects.UserGroup
+INFO main com.tony.jiandan.util.CompilerUtil - Failed to Compile : /Users/wuyuehao/workspace/esp-objects/src/main/java/com/ibm/esp/objects/UserGroup.java:110: 找不到符号
+符号： 变量 ReflectionToStringBuilder
+位置： 类 com.ibm.esp.objects.UserGroup
+INFO main com.tony.jiandan.util.CompilerUtil - Failed to Compile : /Users/wuyuehao/workspace/esp-objects/src/main/java/com/ibm/esp/objects/enums/PermissionType.java:30: 找不到符号
+符号： 变量 ToStringBuilder
+位置： 类 com.ibm.esp.objects.enums.PermissionType
+INFO main com.tony.jiandan.util.CompilerUtil - Failed to Compile : /Users/wuyuehao/workspace/esp-objects/src/main/java/com/ibm/esp/objects/enums/RFxStatus.java:32: 找不到符号
+符号： 变量 ToStringBuilder
+位置： 类 com.ibm.esp.objects.enums.RFxStatus
+INFO main com.tony.jiandan.util.CompilerUtil - Failed to Compile : /Users/wuyuehao/workspace/esp-objects/src/main/java/com/ibm/esp/objects/codegen/CriteriaCodeGenerator.java:54: 找不到符号
+符号： 类 JavaType
+位置： 类 com.ibm.esp.objects.codegen.CriteriaCodeGenerator
+INFO main com.tony.jiandan.util.CompilerUtil - Failed to Compile : /Users/wuyuehao/workspace/esp-objects/src/main/java/com/ibm/esp/objects/codegen/CriteriaCodeGenerator.java:54: 找不到符号
+符号： 变量 New
+位置： 类 com.ibm.esp.objects.codegen.CriteriaCodeGenerator
+INFO main com.tony.jiandan.util.CompilerUtil - Failed to Compile : /Users/wuyuehao/workspace/esp-objects/src/main/java/com/ibm/esp/objects/codegen/CriteriaCodeGenerator.java:55: 找不到符号
+符号： 类 JavaType
+位置： 类 com.ibm.esp.objects.codegen.CriteriaCodeGenerator
+INFO main com.tony.jiandan.util.CompilerUtil - Failed to Compile : /Users/wuyuehao/workspace/esp-objects/src/main/java/com/ibm/esp/objects/codegen/CriteriaCodeGenerator.java:55: 找不到符号
+符号： 变量 New
+位置： 类 com.ibm.esp.objects.codegen.CriteriaCodeGenerator
+INFO main com.tony.jiandan.util.CompilerUtil - Failed to Compile : /Users/wuyuehao/workspace/esp-objects/src/main/java/com/ibm/esp/objects/codegen/CriteriaCodeGenerator.java:56: 找不到符号
+符号： 类 JavaType
+位置： 类 com.ibm.esp.objects.codegen.CriteriaCodeGenerator
+INFO main com.tony.jiandan.util.CompilerUtil - Failed to Compile : /Users/wuyuehao/workspace/esp-objects/src/main/java/com/ibm/esp/objects/codegen/CriteriaCodeGenerator.java:56: 找不到符号
+符号： 变量 New
+位置： 类 com.ibm.esp.objects.codegen.CriteriaCodeGenerator
+INFO main com.tony.jiandan.util.CompilerUtil - Failed to Compile : /Users/wuyuehao/workspace/esp-objects/src/main/java/com/ibm/esp/objects/codegen/CriteriaCodeGenerator.java:57: 找不到符号
+符号： 类 JavaType
+位置： 类 com.ibm.esp.objects.codegen.CriteriaCodeGenerator
+INFO main com.tony.jiandan.util.CompilerUtil - Failed to Compile : /Users/wuyuehao/workspace/esp-objects/src/main/java/com/ibm/esp/objects/codegen/CriteriaCodeGenerator.java:57: 找不到符号
+符号： 变量 New
+位置： 类 com.ibm.esp.objects.codegen.CriteriaCodeGenerator
+INFO main com.tony.jiandan.util.CompilerUtil - Failed to Compile : /Users/wuyuehao/workspace/esp-objects/src/main/java/com/ibm/esp/objects/codegen/CriteriaCodeGenerator.java:58: 找不到符号
+符号： 类 JavaType
+位置： 类 com.ibm.esp.objects.codegen.CriteriaCodeGenerator
+INFO main com.tony.jiandan.util.CompilerUtil - Failed to Compile : /Users/wuyuehao/workspace/esp-objects/src/main/java/com/ibm/esp/objects/codegen/CriteriaCodeGenerator.java:58: 找不到符号
+符号： 变量 New
+位置： 类 com.ibm.esp.objects.codegen.CriteriaCodeGenerator
+INFO main com.tony.jiandan.util.CompilerUtil - Failed to Compile : /Users/wuyuehao/workspace/esp-objects/src/main/java/com/ibm/esp/objects/codegen/CriteriaCodeGenerator.java:59: 找不到符号
+符号： 类 JavaType
+位置： 类 com.ibm.esp.objects.codegen.CriteriaCodeGenerator
+INFO main com.tony.jiandan.util.CompilerUtil - Failed to Compile : /Users/wuyuehao/workspace/esp-objects/src/main/java/com/ibm/esp/objects/codegen/CriteriaCodeGenerator.java:59: 找不到符号
+符号： 变量 New
+位置： 类 com.ibm.esp.objects.codegen.CriteriaCodeGenerator
+INFO main com.tony.jiandan.util.CompilerUtil - Failed to Compile : /Users/wuyuehao/workspace/esp-objects/src/main/java/com/ibm/esp/objects/codegen/CriteriaCodeGenerator.java:60: 找不到符号
+符号： 类 JavaType
+位置： 类 com.ibm.esp.objects.codegen.CriteriaCodeGenerator
+INFO main com.tony.jiandan.util.CompilerUtil - Failed to Compile : /Users/wuyuehao/workspace/esp-objects/src/main/java/com/ibm/esp/objects/codegen/CriteriaCodeGenerator.java:60: 找不到符号
+符号： 变量 New
+位置： 类 com.ibm.esp.objects.codegen.CriteriaCodeGenerator
+INFO main com.tony.jiandan.util.CompilerUtil - Failed to Compile : /Users/wuyuehao/workspace/esp-objects/src/main/java/com/ibm/esp/objects/codegen/CriteriaCodeGenerator.java:61: 找不到符号
+符号： 类 JavaType
+位置： 类 com.ibm.esp.objects.codegen.CriteriaCodeGenerator
+INFO main com.tony.jiandan.util.CompilerUtil - Failed to Compile : /Users/wuyuehao/workspace/esp-objects/src/main/java/com/ibm/esp/objects/codegen/CriteriaCodeGenerator.java:61: 找不到符号
+符号： 变量 New
+位置： 类 com.ibm.esp.objects.codegen.CriteriaCodeGenerator
+INFO main com.tony.jiandan.util.CompilerUtil - Failed to Compile : /Users/wuyuehao/workspace/esp-objects/src/main/java/com/ibm/esp/objects/codegen/CriteriaCodeGenerator.java:62: 找不到符号
+符号： 类 JavaType
+位置： 类 com.ibm.esp.objects.codegen.CriteriaCodeGenerator
+INFO main com.tony.jiandan.util.CompilerUtil - Failed to Compile : /Users/wuyuehao/workspace/esp-objects/src/main/java/com/ibm/esp/objects/codegen/CriteriaCodeGenerator.java:62: 找不到符号
+符号： 变量 New
+位置： 类 com.ibm.esp.objects.codegen.CriteriaCodeGenerator
+INFO main com.tony.jiandan.util.CompilerUtil - Failed to Compile : /Users/wuyuehao/workspace/esp-objects/src/main/java/com/ibm/esp/objects/codegen/CriteriaCodeGenerator.java:63: 找不到符号
+符号： 类 JavaType
+位置： 类 com.ibm.esp.objects.codegen.CriteriaCodeGenerator
+INFO main com.tony.jiandan.util.CompilerUtil - Failed to Compile : /Users/wuyuehao/workspace/esp-objects/src/main/java/com/ibm/esp/objects/codegen/CriteriaCodeGenerator.java:63: 找不到符号
+符号： 变量 New
+位置： 类 com.ibm.esp.objects.codegen.CriteriaCodeGenerator
+INFO main com.tony.jiandan.util.CompilerUtil - Failed to Compile : /Users/wuyuehao/workspace/esp-objects/src/main/java/com/ibm/esp/objects/codegen/CriteriaCodeGenerator.java:64: 找不到符号
+符号： 类 JavaType
+位置： 类 com.ibm.esp.objects.codegen.CriteriaCodeGenerator
+INFO main com.tony.jiandan.util.CompilerUtil - Failed to Compile : /Users/wuyuehao/workspace/esp-objects/src/main/java/com/ibm/esp/objects/codegen/CriteriaCodeGenerator.java:64: 找不到符号
+符号： 变量 New
+位置： 类 com.ibm.esp.objects.codegen.CriteriaCodeGenerator
+INFO main com.tony.jiandan.util.CompilerUtil - Failed to Compile : /Users/wuyuehao/workspace/esp-objects/src/main/java/com/ibm/esp/objects/codegen/CriteriaCodeGenerator.java:65: 找不到符号
+符号： 类 JavaType
+位置： 类 com.ibm.esp.objects.codegen.CriteriaCodeGenerator
+INFO main com.tony.jiandan.util.CompilerUtil - Failed to Compile : /Users/wuyuehao/workspace/esp-objects/src/main/java/com/ibm/esp/objects/codegen/CriteriaCodeGenerator.java:65: 找不到符号
+符号： 变量 New
+位置： 类 com.ibm.esp.objects.codegen.CriteriaCodeGenerator
+INFO main com.tony.jiandan.util.CompilerUtil - Failed to Compile : /Users/wuyuehao/workspace/esp-objects/src/main/java/com/ibm/esp/objects/codegen/CriteriaCodeGenerator.java:66: 找不到符号
+符号： 类 JavaType
+位置： 类 com.ibm.esp.objects.codegen.CriteriaCodeGenerator
+INFO main com.tony.jiandan.util.CompilerUtil - Failed to Compile : /Users/wuyuehao/workspace/esp-objects/src/main/java/com/ibm/esp/objects/codegen/CriteriaCodeGenerator.java:66: 找不到符号
+符号： 变量 New
+位置： 类 com.ibm.esp.objects.codegen.CriteriaCodeGenerator
+INFO main com.tony.jiandan.util.CompilerUtil - Failed to Compile : /Users/wuyuehao/workspace/esp-objects/src/main/java/com/ibm/esp/objects/codegen/CriteriaCodeGenerator.java:67: 找不到符号
+符号： 类 JavaType
+位置： 类 com.ibm.esp.objects.codegen.CriteriaCodeGenerator
+INFO main com.tony.jiandan.util.CompilerUtil - Failed to Compile : /Users/wuyuehao/workspace/esp-objects/src/main/java/com/ibm/esp/objects/codegen/CriteriaCodeGenerator.java:67: 找不到符号
+符号： 变量 New
+位置： 类 com.ibm.esp.objects.codegen.CriteriaCodeGenerator
+INFO main com.tony.jiandan.util.CompilerUtil - Failed to Compile : /Users/wuyuehao/workspace/esp-objects/src/main/java/com/ibm/esp/objects/codegen/CriteriaCodeGenerator.java:68: 找不到符号
+符号： 类 JavaType
+位置： 类 com.ibm.esp.objects.codegen.CriteriaCodeGenerator
+INFO main com.tony.jiandan.util.CompilerUtil - Failed to Compile : /Users/wuyuehao/workspace/esp-objects/src/main/java/com/ibm/esp/objects/codegen/CriteriaCodeGenerator.java:68: 找不到符号
+符号： 变量 New
+位置： 类 com.ibm.esp.objects.codegen.CriteriaCodeGenerator
+INFO main com.tony.jiandan.util.CompilerUtil - Failed to Compile : /Users/wuyuehao/workspace/esp-objects/src/main/java/com/ibm/esp/objects/codegen/CriteriaCodeGenerator.java:69: 找不到符号
+符号： 类 JavaType
+位置： 类 com.ibm.esp.objects.codegen.CriteriaCodeGenerator
+INFO main com.tony.jiandan.util.CompilerUtil - Failed to Compile : /Users/wuyuehao/workspace/esp-objects/src/main/java/com/ibm/esp/objects/codegen/CriteriaCodeGenerator.java:69: 找不到符号
+符号： 变量 New
+位置： 类 com.ibm.esp.objects.codegen.CriteriaCodeGenerator
+INFO main com.tony.jiandan.util.CompilerUtil - Failed to Compile : /Users/wuyuehao/workspace/esp-objects/src/main/java/com/ibm/esp/objects/codegen/CriteriaCodeGenerator.java:71: 找不到符号
+符号： 类 JavaType
+位置： 类 com.ibm.esp.objects.codegen.CriteriaCodeGenerator
+INFO main com.tony.jiandan.util.CompilerUtil - Failed to Compile : /Users/wuyuehao/workspace/esp-objects/src/main/java/com/ibm/esp/objects/codegen/CriteriaCodeGenerator.java:71: 找不到符号
+符号： 变量 New
+位置： 类 com.ibm.esp.objects.codegen.CriteriaCodeGenerator
+INFO main com.tony.jiandan.util.CompilerUtil - Failed to Compile : /Users/wuyuehao/workspace/esp-objects/src/main/java/com/ibm/esp/objects/codegen/CriteriaCodeGenerator.java:72: 找不到符号
+符号： 类 JavaType
+位置： 类 com.ibm.esp.objects.codegen.CriteriaCodeGenerator
+INFO main com.tony.jiandan.util.CompilerUtil - Failed to Compile : /Users/wuyuehao/workspace/esp-objects/src/main/java/com/ibm/esp/objects/codegen/CriteriaCodeGenerator.java:72: 找不到符号
+符号： 变量 New
+位置： 类 com.ibm.esp.objects.codegen.CriteriaCodeGenerator
+INFO main com.tony.jiandan.util.CompilerUtil - Failed to Compile : /Users/wuyuehao/workspace/esp-objects/src/main/java/com/ibm/esp/objects/codegen/CriteriaCodeGenerator.java:74: 找不到符号
+符号： 类 JavaType
+位置： 类 com.ibm.esp.objects.codegen.CriteriaCodeGenerator
+INFO main com.tony.jiandan.util.CompilerUtil - Failed to Compile : /Users/wuyuehao/workspace/esp-objects/src/main/java/com/ibm/esp/objects/codegen/CriteriaCodeGenerator.java:74: 找不到符号
+符号： 变量 New
+位置： 类 com.ibm.esp.objects.codegen.CriteriaCodeGenerator
+INFO main com.tony.jiandan.util.CompilerUtil - Failed to Compile : /Users/wuyuehao/workspace/esp-objects/src/main/java/com/ibm/esp/objects/codegen/CriteriaCodeGenerator.java:75: 找不到符号
+符号： 类 JavaType
+位置： 类 com.ibm.esp.objects.codegen.CriteriaCodeGenerator
+INFO main com.tony.jiandan.util.CompilerUtil - Failed to Compile : /Users/wuyuehao/workspace/esp-objects/src/main/java/com/ibm/esp/objects/codegen/CriteriaCodeGenerator.java:75: 找不到符号
+符号： 变量 New
+位置： 类 com.ibm.esp.objects.codegen.CriteriaCodeGenerator
+INFO main com.tony.jiandan.util.CompilerUtil - Failed to Compile : /Users/wuyuehao/workspace/esp-objects/src/main/java/com/ibm/esp/objects/codegen/CriteriaCodeGenerator.java:77: 找不到符号
+符号： 类 JavaClass
+位置： 类 com.ibm.esp.objects.codegen.CriteriaCodeGenerator
+INFO main com.tony.jiandan.util.CompilerUtil - Failed to Compile : /Users/wuyuehao/workspace/esp-objects/src/main/java/com/ibm/esp/objects/codegen/CriteriaCodeGenerator.java:84: 找不到符号
+符号： 类 JavaField
+位置： 类 com.ibm.esp.objects.codegen.CriteriaCodeGenerator
+DEBUG main com.tony.jiandan.navigator.FileNavigator - found :/Users/wuyuehao/workspace/esp-objects/src/main/java/com
+DEBUG main com.tony.jiandan.navigator.FileNavigator - found :/Users/wuyuehao/workspace/esp-objects/src/main/java/com/ibm
+DEBUG main com.tony.jiandan.navigator.FileNavigator - found :/Users/wuyuehao/workspace/esp-objects/src/main/java/com/ibm/esp
+DEBUG main com.tony.jiandan.navigator.FileNavigator - found :/Users/wuyuehao/workspace/esp-objects/src/main/java/com/ibm/esp/objects
+DEBUG main com.tony.jiandan.navigator.FileNavigator - found :/Users/wuyuehao/workspace/esp-objects/src/main/java/com/ibm/esp/objects/AccessControl.java
+DEBUG main com.tony.jiandan.ClassDefiner - FileNotFoundException :/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/generatedsrc/com/ibm/esp/objects/AccessControl.class (No such file or directory)
+DEBUG main freemarker.cache - Could not find template in cache, creating new one; id=["pom.ftl"["zh_CN",EUC_CN,parsed] ]
+DEBUG main freemarker.cache - Compiling FreeMarker template "pom.ftl"["zh_CN",EUC_CN,parsed]  from "file:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/target/classes/template/pom.ftl"
+DEBUG main com.tony.jiandan.generator.RestGenerator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/generatedsrc/mvn/pom.xml
+DEBUG main com.tony.jiandan.generator.RestGenerator - mkdirs: true
+DEBUG main freemarker.cache - Could not find template in cache, creating new one; id=["applicationContext.ftl"["zh_CN",EUC_CN,parsed] ]
+DEBUG main freemarker.cache - Compiling FreeMarker template "applicationContext.ftl"["zh_CN",EUC_CN,parsed]  from "file:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/target/classes/template/applicationContext.ftl"
+DEBUG main com.tony.jiandan.generator.SpringContextGenerator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/generatedsrc/spring/applicationContext.xml
+DEBUG main com.tony.jiandan.generator.SpringContextGenerator - mkdirs: true
+DEBUG main com.tony.jiandan.navigator.FileNavigator - found :/Users/wuyuehao/workspace/esp-objects/target/classes
+DEBUG main com.tony.jiandan.navigator.FileNavigator - found :/Users/wuyuehao/workspace/esp-objects/target/classes/com
+DEBUG main com.tony.jiandan.navigator.FileNavigator - found :/Users/wuyuehao/workspace/esp-objects/target/classes/com/ibm
+DEBUG main com.tony.jiandan.navigator.FileNavigator - found :/Users/wuyuehao/workspace/esp-objects/target/classes/com/ibm/esp
+DEBUG main com.tony.jiandan.navigator.FileNavigator - found :/Users/wuyuehao/workspace/esp-objects/target/classes/com/ibm/esp/objects
+DEBUG main freemarker.cache - Could not find template in cache, creating new one; id=["pom.ftl"["zh_CN",EUC_CN,parsed] ]
+DEBUG main freemarker.cache - Compiling FreeMarker template "pom.ftl"["zh_CN",EUC_CN,parsed]  from "file:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/target/classes/template/pom.ftl"
+DEBUG main com.tony.jiandan.generator.RestGenerator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/generatedsrc/mvn/pom.xml
+DEBUG main com.tony.jiandan.generator.RestGenerator - mkdirs: true
+DEBUG main freemarker.cache - Could not find template in cache, creating new one; id=["applicationContext.ftl"["zh_CN",EUC_CN,parsed] ]
+DEBUG main freemarker.cache - Compiling FreeMarker template "applicationContext.ftl"["zh_CN",EUC_CN,parsed]  from "file:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/target/classes/template/applicationContext.ftl"
+DEBUG main com.tony.jiandan.generator.SpringContextGenerator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/generatedsrc/spring/applicationContext.xml
+DEBUG main com.tony.jiandan.generator.SpringContextGenerator - mkdirs: true
+DEBUG main freemarker.cache - Could not find template in cache, creating new one; id=["pom.ftl"["zh_CN",EUC_CN,parsed] ]
+DEBUG main freemarker.cache - Compiling FreeMarker template "pom.ftl"["zh_CN",EUC_CN,parsed]  from "file:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/target/classes/template/pom.ftl"
+DEBUG main com.tony.jiandan.generator.RestGenerator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/generatedsrc/mvn/pom.xml
+DEBUG main com.tony.jiandan.generator.RestGenerator - mkdirs: true
+DEBUG main freemarker.cache - Could not find template in cache, creating new one; id=["applicationContext.ftl"["zh_CN",EUC_CN,parsed] ]
+DEBUG main freemarker.cache - Compiling FreeMarker template "applicationContext.ftl"["zh_CN",EUC_CN,parsed]  from "file:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/target/classes/template/applicationContext.ftl"
+DEBUG main com.tony.jiandan.generator.SpringContextGenerator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/generatedsrc/spring/applicationContext.xml
+DEBUG main com.tony.jiandan.generator.SpringContextGenerator - mkdirs: true
+DEBUG main com.tony.jiandan.navigator.FileNavigator - found :/Users/wuyuehao/workspace/esp-objects/target/classes
+DEBUG main com.tony.jiandan.navigator.FileNavigator - found :/Users/wuyuehao/workspace/esp-objects/target/classes/com
+DEBUG main com.tony.jiandan.navigator.FileNavigator - found :/Users/wuyuehao/workspace/esp-objects/target/classes/com/ibm
+DEBUG main com.tony.jiandan.navigator.FileNavigator - found :/Users/wuyuehao/workspace/esp-objects/target/classes/com/ibm/esp
+DEBUG main com.tony.jiandan.navigator.FileNavigator - found :/Users/wuyuehao/workspace/esp-objects/target/classes/com/ibm/esp/objects
+DEBUG main freemarker.cache - Could not find template in cache, creating new one; id=["pom.ftl"["zh_CN",EUC_CN,parsed] ]
+DEBUG main freemarker.cache - Compiling FreeMarker template "pom.ftl"["zh_CN",EUC_CN,parsed]  from "file:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/target/classes/template/pom.ftl"
+DEBUG main com.tony.jiandan.generator.RestGenerator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/generatedsrc/mvn/pom.xml
+DEBUG main com.tony.jiandan.generator.RestGenerator - mkdirs: true
+DEBUG main freemarker.cache - Could not find template in cache, creating new one; id=["applicationContext.ftl"["zh_CN",EUC_CN,parsed] ]
+DEBUG main freemarker.cache - Compiling FreeMarker template "applicationContext.ftl"["zh_CN",EUC_CN,parsed]  from "file:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/target/classes/template/applicationContext.ftl"
+DEBUG main com.tony.jiandan.generator.SpringContextGenerator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/generatedsrc/spring/applicationContext.xml
+DEBUG main com.tony.jiandan.generator.SpringContextGenerator - mkdirs: true
+DEBUG main com.tony.jiandan.navigator.FileNavigator - found :/Users/wuyuehao/workspace/esp-objects/target/classes/com
+DEBUG main com.tony.jiandan.navigator.FileNavigator - found :/Users/wuyuehao/workspace/esp-objects/target/classes/com/ibm
+DEBUG main com.tony.jiandan.navigator.FileNavigator - found :/Users/wuyuehao/workspace/esp-objects/target/classes/com/ibm/esp
+DEBUG main com.tony.jiandan.navigator.FileNavigator - found :/Users/wuyuehao/workspace/esp-objects/target/classes/com/ibm/esp/objects
+DEBUG main freemarker.cache - Could not find template in cache, creating new one; id=["pom.ftl"["zh_CN",EUC_CN,parsed] ]
+DEBUG main freemarker.cache - Compiling FreeMarker template "pom.ftl"["zh_CN",EUC_CN,parsed]  from "file:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/target/classes/template/pom.ftl"
+DEBUG main com.tony.jiandan.generator.RestGenerator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/generatedsrc/mvn/pom.xml
+DEBUG main com.tony.jiandan.generator.RestGenerator - mkdirs: true
+DEBUG main freemarker.cache - Could not find template in cache, creating new one; id=["applicationContext.ftl"["zh_CN",EUC_CN,parsed] ]
+DEBUG main freemarker.cache - Compiling FreeMarker template "applicationContext.ftl"["zh_CN",EUC_CN,parsed]  from "file:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/target/classes/template/applicationContext.ftl"
+DEBUG main com.tony.jiandan.generator.SpringContextGenerator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/generatedsrc/spring/applicationContext.xml
+DEBUG main com.tony.jiandan.generator.SpringContextGenerator - mkdirs: true
+DEBUG main com.tony.jiandan.navigator.FileNavigator - found :/Users/wuyuehao/workspace/esp-objects/target/classes/com
+DEBUG main com.tony.jiandan.navigator.FileNavigator - found :/Users/wuyuehao/workspace/esp-objects/target/classes/com/ibm
+DEBUG main com.tony.jiandan.navigator.FileNavigator - found :/Users/wuyuehao/workspace/esp-objects/target/classes/com/ibm/esp
+DEBUG main com.tony.jiandan.navigator.FileNavigator - found :/Users/wuyuehao/workspace/esp-objects/target/classes/com/ibm/esp/objects
+DEBUG main freemarker.cache - Could not find template in cache, creating new one; id=["pom.ftl"["zh_CN",EUC_CN,parsed] ]
+DEBUG main freemarker.cache - Compiling FreeMarker template "pom.ftl"["zh_CN",EUC_CN,parsed]  from "file:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/target/classes/template/pom.ftl"
+DEBUG main com.tony.jiandan.generator.RestGenerator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/generatedsrc/mvn/pom.xml
+DEBUG main com.tony.jiandan.generator.RestGenerator - mkdirs: true
+DEBUG main freemarker.cache - Could not find template in cache, creating new one; id=["applicationContext.ftl"["zh_CN",EUC_CN,parsed] ]
+DEBUG main freemarker.cache - Compiling FreeMarker template "applicationContext.ftl"["zh_CN",EUC_CN,parsed]  from "file:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/target/classes/template/applicationContext.ftl"
+DEBUG main com.tony.jiandan.generator.SpringContextGenerator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/generatedsrc/spring/applicationContext.xml
+DEBUG main com.tony.jiandan.generator.SpringContextGenerator - mkdirs: true
+DEBUG main com.tony.jiandan.navigator.FileNavigator - found :/Users/wuyuehao/workspace/esp-objects/target/classes/com
+DEBUG main com.tony.jiandan.navigator.FileNavigator - found :/Users/wuyuehao/workspace/esp-objects/target/classes/com/ibm
+DEBUG main com.tony.jiandan.navigator.FileNavigator - found :/Users/wuyuehao/workspace/esp-objects/target/classes/com/ibm/esp
+DEBUG main com.tony.jiandan.navigator.FileNavigator - found :/Users/wuyuehao/workspace/esp-objects/target/classes/com/ibm/esp/objects
+DEBUG main freemarker.cache - Could not find template in cache, creating new one; id=["pom.ftl"["zh_CN",EUC_CN,parsed] ]
+DEBUG main freemarker.cache - Compiling FreeMarker template "pom.ftl"["zh_CN",EUC_CN,parsed]  from "file:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/target/classes/template/pom.ftl"
+DEBUG main com.tony.jiandan.generator.RestGenerator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/generatedsrc/mvn/pom.xml
+DEBUG main com.tony.jiandan.generator.RestGenerator - mkdirs: true
+DEBUG main freemarker.cache - Could not find template in cache, creating new one; id=["applicationContext.ftl"["zh_CN",EUC_CN,parsed] ]
+DEBUG main freemarker.cache - Compiling FreeMarker template "applicationContext.ftl"["zh_CN",EUC_CN,parsed]  from "file:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/target/classes/template/applicationContext.ftl"
+DEBUG main com.tony.jiandan.generator.SpringContextGenerator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/generatedsrc/spring/applicationContext.xml
+DEBUG main com.tony.jiandan.generator.SpringContextGenerator - mkdirs: true
+DEBUG main com.tony.jiandan.navigator.FileNavigator - found :/Users/wuyuehao/workspace/esp-objects/target/classes/com
+DEBUG main com.tony.jiandan.navigator.FileNavigator - found :/Users/wuyuehao/workspace/esp-objects/target/classes/com/ibm
+DEBUG main com.tony.jiandan.navigator.FileNavigator - found :/Users/wuyuehao/workspace/esp-objects/target/classes/com/ibm/esp
+DEBUG main com.tony.jiandan.navigator.FileNavigator - found :/Users/wuyuehao/workspace/esp-objects/target/classes/com/ibm/esp/objects
+DEBUG main freemarker.cache - Could not find template in cache, creating new one; id=["pom.ftl"["zh_CN",EUC_CN,parsed] ]
+DEBUG main freemarker.cache - Compiling FreeMarker template "pom.ftl"["zh_CN",EUC_CN,parsed]  from "file:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/target/classes/template/pom.ftl"
+DEBUG main com.tony.jiandan.generator.RestGenerator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/generatedsrc/mvn/pom.xml
+DEBUG main com.tony.jiandan.generator.RestGenerator - mkdirs: true
+DEBUG main freemarker.cache - Could not find template in cache, creating new one; id=["applicationContext.ftl"["zh_CN",EUC_CN,parsed] ]
+DEBUG main freemarker.cache - Compiling FreeMarker template "applicationContext.ftl"["zh_CN",EUC_CN,parsed]  from "file:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/target/classes/template/applicationContext.ftl"
+DEBUG main com.tony.jiandan.generator.SpringContextGenerator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/generatedsrc/spring/applicationContext.xml
+DEBUG main com.tony.jiandan.generator.SpringContextGenerator - mkdirs: true
+DEBUG main com.tony.jiandan.navigator.FileNavigator - found :/Users/wuyuehao/workspace/esp-objects/target/classes/com
+DEBUG main com.tony.jiandan.navigator.FileNavigator - found :/Users/wuyuehao/workspace/esp-objects/target/classes/com/ibm
+DEBUG main com.tony.jiandan.navigator.FileNavigator - found :/Users/wuyuehao/workspace/esp-objects/target/classes/com/ibm/esp
+DEBUG main com.tony.jiandan.navigator.FileNavigator - found :/Users/wuyuehao/workspace/esp-objects/target/classes/com/ibm/esp/objects
+DEBUG main freemarker.cache - Could not find template in cache, creating new one; id=["pom.ftl"["zh_CN",EUC_CN,parsed] ]
+DEBUG main freemarker.cache - Compiling FreeMarker template "pom.ftl"["zh_CN",EUC_CN,parsed]  from "file:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/target/classes/template/pom.ftl"
+DEBUG main com.tony.jiandan.generator.RestGenerator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/generatedsrc/mvn/pom.xml
+DEBUG main com.tony.jiandan.generator.RestGenerator - mkdirs: true
+DEBUG main freemarker.cache - Could not find template in cache, creating new one; id=["applicationContext.ftl"["zh_CN",EUC_CN,parsed] ]
+DEBUG main freemarker.cache - Compiling FreeMarker template "applicationContext.ftl"["zh_CN",EUC_CN,parsed]  from "file:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/target/classes/template/applicationContext.ftl"
+DEBUG main com.tony.jiandan.generator.SpringContextGenerator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/generatedsrc/spring/applicationContext.xml
+DEBUG main com.tony.jiandan.generator.SpringContextGenerator - mkdirs: true
+DEBUG main com.tony.jiandan.navigator.FileNavigator - found :/Users/wuyuehao/workspace/esp-objects/target/classes/com
+DEBUG main com.tony.jiandan.navigator.FileNavigator - found :/Users/wuyuehao/workspace/esp-objects/target/classes/com/ibm
+DEBUG main com.tony.jiandan.navigator.FileNavigator - found :/Users/wuyuehao/workspace/esp-objects/target/classes/com/ibm/esp
+DEBUG main com.tony.jiandan.navigator.FileNavigator - found :/Users/wuyuehao/workspace/esp-objects/target/classes/com/ibm/esp/objects
+DEBUG main freemarker.cache - Could not find template in cache, creating new one; id=["pom.ftl"["zh_CN",EUC_CN,parsed] ]
+DEBUG main freemarker.cache - Compiling FreeMarker template "pom.ftl"["zh_CN",EUC_CN,parsed]  from "file:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/target/classes/template/pom.ftl"
+DEBUG main com.tony.jiandan.generator.RestGenerator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/generatedsrc/mvn/pom.xml
+DEBUG main com.tony.jiandan.generator.RestGenerator - mkdirs: true
+DEBUG main freemarker.cache - Could not find template in cache, creating new one; id=["applicationContext.ftl"["zh_CN",EUC_CN,parsed] ]
+DEBUG main freemarker.cache - Compiling FreeMarker template "applicationContext.ftl"["zh_CN",EUC_CN,parsed]  from "file:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/target/classes/template/applicationContext.ftl"
+DEBUG main com.tony.jiandan.generator.SpringContextGenerator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/generatedsrc/spring/applicationContext.xml
+DEBUG main com.tony.jiandan.generator.SpringContextGenerator - mkdirs: true
+DEBUG main com.tony.jiandan.navigator.FileNavigator - found :/Users/wuyuehao/workspace/esp-objects/target/classes/com
+DEBUG main com.tony.jiandan.navigator.FileNavigator - found :/Users/wuyuehao/workspace/esp-objects/target/classes/com/ibm
+DEBUG main com.tony.jiandan.navigator.FileNavigator - found :/Users/wuyuehao/workspace/esp-objects/target/classes/com/ibm/esp
+DEBUG main com.tony.jiandan.navigator.FileNavigator - found :/Users/wuyuehao/workspace/esp-objects/target/classes/com/ibm/esp/objects
+DEBUG main freemarker.cache - Could not find template in cache, creating new one; id=["pom.ftl"["zh_CN",EUC_CN,parsed] ]
+DEBUG main freemarker.cache - Compiling FreeMarker template "pom.ftl"["zh_CN",EUC_CN,parsed]  from "file:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/target/classes/template/pom.ftl"
+DEBUG main com.tony.jiandan.generator.RestGenerator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/generatedsrc/mvn/pom.xml
+DEBUG main com.tony.jiandan.generator.RestGenerator - mkdirs: true
+DEBUG main freemarker.cache - Could not find template in cache, creating new one; id=["applicationContext.ftl"["zh_CN",EUC_CN,parsed] ]
+DEBUG main freemarker.cache - Compiling FreeMarker template "applicationContext.ftl"["zh_CN",EUC_CN,parsed]  from "file:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/target/classes/template/applicationContext.ftl"
+DEBUG main com.tony.jiandan.generator.SpringContextGenerator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/generatedsrc/spring/applicationContext.xml
+DEBUG main com.tony.jiandan.generator.SpringContextGenerator - mkdirs: true
+DEBUG main com.tony.jiandan.navigator.FileNavigator - found :/Users/wuyuehao/workspace/esp-objects/target/classes/com
+DEBUG main com.tony.jiandan.navigator.FileNavigator - found :/Users/wuyuehao/workspace/esp-objects/target/classes/com/ibm
+DEBUG main com.tony.jiandan.navigator.FileNavigator - found :/Users/wuyuehao/workspace/esp-objects/target/classes/com/ibm/esp
+DEBUG main com.tony.jiandan.navigator.FileNavigator - found :/Users/wuyuehao/workspace/esp-objects/target/classes/com/ibm/esp/objects
+DEBUG main freemarker.cache - Could not find template in cache, creating new one; id=["pom.ftl"["zh_CN",EUC_CN,parsed] ]
+DEBUG main freemarker.cache - Compiling FreeMarker template "pom.ftl"["zh_CN",EUC_CN,parsed]  from "file:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/target/classes/template/pom.ftl"
+DEBUG main com.tony.jiandan.generator.RestGenerator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/generatedsrc/mvn/pom.xml
+DEBUG main com.tony.jiandan.generator.RestGenerator - mkdirs: true
+DEBUG main freemarker.cache - Could not find template in cache, creating new one; id=["applicationContext.ftl"["zh_CN",EUC_CN,parsed] ]
+DEBUG main freemarker.cache - Compiling FreeMarker template "applicationContext.ftl"["zh_CN",EUC_CN,parsed]  from "file:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/target/classes/template/applicationContext.ftl"
+DEBUG main com.tony.jiandan.generator.SpringContextGenerator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/generatedsrc/spring/applicationContext.xml
+DEBUG main com.tony.jiandan.generator.SpringContextGenerator - mkdirs: true
+DEBUG main com.tony.jiandan.navigator.FileNavigator - found :/Users/wuyuehao/workspace/esp-objects/target/classes/com
+DEBUG main com.tony.jiandan.navigator.FileNavigator - found :/Users/wuyuehao/workspace/esp-objects/target/classes/com/ibm
+DEBUG main com.tony.jiandan.navigator.FileNavigator - found :/Users/wuyuehao/workspace/esp-objects/target/classes/com/ibm/esp
+DEBUG main com.tony.jiandan.navigator.FileNavigator - found :/Users/wuyuehao/workspace/esp-objects/target/classes/com/ibm/esp/objects
+DEBUG main com.tony.jiandan.navigator.FileNavigator - found :/Users/wuyuehao/workspace/esp-objects/target/classes/com/ibm/esp/objects/AccessControl.class
+DEBUG main com.tony.jiandan.navigator.FileNavigator - found :/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/target/classes/com
+DEBUG main com.tony.jiandan.navigator.FileNavigator - found :/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/target/classes/com/tony
+DEBUG main com.tony.jiandan.navigator.FileNavigator - found :/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/target/classes/com/tony/jiandan
+DEBUG main com.tony.jiandan.navigator.FileNavigator - found :/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/target/classes/com/tony/jiandan/console
+DEBUG main com.tony.jiandan.navigator.FileNavigator - found :/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/target/classes/com/tony/jiandan/generator
+DEBUG main com.tony.jiandan.navigator.FileNavigator - found :/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/target/classes/com/tony/jiandan/generator/BaseGenerator.class
+DEBUG main com.tony.jiandan.navigator.FileNavigator - found :/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/target/classes/com
+DEBUG main com.tony.jiandan.navigator.FileNavigator - found :/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/target/classes/com/tony
+DEBUG main com.tony.jiandan.navigator.FileNavigator - found :/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/target/classes/com/tony/jiandan
+DEBUG main com.tony.jiandan.navigator.FileNavigator - found :/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/target/classes/com/tony/jiandan/console
+DEBUG main com.tony.jiandan.navigator.FileNavigator - found :/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/target/classes/com/tony/jiandan/generator
+DEBUG main com.tony.jiandan.navigator.FileNavigator - found :/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/target/classes/com/tony/jiandan/generator/BaseGenerator.class
+DEBUG main com.tony.jiandan.navigator.FileNavigator - found :/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/target/classes/com
+DEBUG main com.tony.jiandan.navigator.FileNavigator - found :/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/target/classes/com/tony
+DEBUG main com.tony.jiandan.navigator.FileNavigator - found :/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/target/classes/com/tony/jiandan
+DEBUG main com.tony.jiandan.navigator.FileNavigator - found :/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/target/classes/com/tony/jiandan/console
+DEBUG main com.tony.jiandan.navigator.FileNavigator - found :/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/target/classes/com/tony/jiandan/generator
+DEBUG main com.tony.jiandan.navigator.FileNavigator - found :/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/target/classes/com/tony/jiandan/generator/BaseGenerator.class
+DEBUG main com.tony.jiandan.navigator.FileNavigator - found :/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/target/classes/com/tony/jiandan/generator/ConfigurationFactory.class
+DEBUG main com.tony.jiandan.navigator.FileNavigator - found :/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/target/classes/com/tony/jiandan/generator/CriteriaGenerator.class
+DEBUG main com.tony.jiandan.navigator.FileNavigator - found :/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/target/classes/com/tony/jiandan/generator/DaoGenerator.class
+DEBUG main com.tony.jiandan.navigator.FileNavigator - found :/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/target/classes/com/tony/jiandan/generator/DaoGeneratorTest.class
+DEBUG main com.tony.jiandan.navigator.FileNavigator - found :/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/target/classes/com/tony/jiandan/generator/DummyEntity.class
+DEBUG main com.tony.jiandan.navigator.FileNavigator - found :/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/target/classes/com/tony/jiandan/generator/FetchGenerator.class
+DEBUG main com.tony.jiandan.navigator.FileNavigator - found :/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/target/classes/com/tony/jiandan/generator/Generator.class
+DEBUG main com.tony.jiandan.navigator.FileNavigator - found :/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/target/classes/com/tony/jiandan/generator/PomGenerator.class
+DEBUG main com.tony.jiandan.navigator.FileNavigator - found :/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/target/classes/com/tony/jiandan/generator/RestGenerator.class
+DEBUG main com.tony.jiandan.navigator.FileNavigator - found :/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/target/classes/com/tony/jiandan/generator/SpringContextGenerator.class
+DEBUG main com.tony.jiandan.navigator.FileNavigator - found :/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/target/classes/com/tony/jiandan/Main.class
+DEBUG main com.tony.jiandan.navigator.FileNavigator - found :/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/target/classes/com/tony/jiandan/MainTest.class
+DEBUG main com.tony.jiandan.navigator.FileNavigator - found :/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/target/classes/com/tony/jiandan/model
+DEBUG main com.tony.jiandan.navigator.FileNavigator - found :/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/target/classes/com/tony/jiandan/model/Model.class
+DEBUG main com.tony.jiandan.navigator.FileNavigator - found :/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/target/classes/com/tony/jiandan/model/SimpleModel.class
+DEBUG main com.tony.jiandan.navigator.FileNavigator - found :/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/target/classes/com/tony/jiandan/mojo
+DEBUG main com.tony.jiandan.navigator.FileNavigator - found :/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/target/classes/com/tony/jiandan/mojo/MainMojo$1.class
+DEBUG main com.tony.jiandan.navigator.FileNavigator - found :/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/target/classes/com/tony/jiandan/mojo/MainMojo.class
+DEBUG main com.tony.jiandan.navigator.FileNavigator - found :/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/target/classes/com/tony/jiandan/navigator
+DEBUG main com.tony.jiandan.navigator.FileNavigator - found :/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/target/classes/com/tony/jiandan/navigator/FileNavigator$1.class
+DEBUG main com.tony.jiandan.navigator.FileNavigator - found :/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/target/classes/com/tony/jiandan/navigator/FileNavigator.class
+DEBUG main com.tony.jiandan.navigator.FileNavigator - found :/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/target/classes/com/tony/jiandan/navigator/JpaClassFileNavigator.class
+DEBUG main com.tony.jiandan.navigator.FileNavigator - found :/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/target/classes/com/tony/jiandan/navigator/JpaFileNavigator.class
+DEBUG main com.tony.jiandan.navigator.FileNavigator - found :/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/target/classes/com/tony/jiandan/navigator/Navigator.class
+DEBUG main com.tony.jiandan.navigator.FileNavigator - found :/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/target/classes/com/tony/jiandan/parser
+DEBUG main com.tony.jiandan.navigator.FileNavigator - found :/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/target/classes/com/tony/jiandan/parser/ClassParser.class
+DEBUG main com.tony.jiandan.navigator.FileNavigator - found :/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/target/classes/com/tony/jiandan/parser/ClassParserTest$Employee.class
+DEBUG main com.tony.jiandan.navigator.FileNavigator - found :/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/target/classes/com/tony/jiandan/parser/ClassParserTest$Manager.class
+DEBUG main com.tony.jiandan.navigator.FileNavigator - found :/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/target/classes/com/tony/jiandan/parser/ClassParserTest.class
+DEBUG main com.tony.jiandan.navigator.FileNavigator - found :/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/target/classes/com/tony/jiandan/parser/FieldUnit.class
+DEBUG main com.tony.jiandan.navigator.FileNavigator - found :/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/target/classes/com/tony/jiandan/parser/Parser.class
+DEBUG main com.tony.jiandan.navigator.FileNavigator - found :/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/target/classes/com/tony/jiandan/util
+DEBUG main com.tony.jiandan.navigator.FileNavigator - found :/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/target/classes/com/tony/jiandan/util/ClassDefiner.class
+DEBUG main com.tony.jiandan.navigator.FileNavigator - found :/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/target/classes/com/tony/jiandan/util/CompilerUtil.class
+DEBUG main com.tony.jiandan.navigator.FileNavigator - found :/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/target/classes/com/tony/jiandan/util/StringUtil.class
+DEBUG main com.tony.jiandan.navigator.FileNavigator - found :/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/target/classes/META-INF
+DEBUG main com.tony.jiandan.navigator.FileNavigator - found :/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/target/classes/META-INF/maven
+DEBUG main com.tony.jiandan.navigator.FileNavigator - found :/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/target/classes/META-INF/maven/jiandan
+DEBUG main com.tony.jiandan.navigator.FileNavigator - found :/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/target/classes/META-INF/maven/jiandan/jiandan-maven-plugin
+DEBUG main com.tony.jiandan.navigator.FileNavigator - found :/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/target/classes/template
+DEBUG main com.tony.jiandan.navigator.FileNavigator - Get files:31
+INFO main com.tony.jiandan.generator.Generator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/target/classes/com/tony/jiandan/mockentities/generated/dao/BandDataDao.java
+INFO main com.tony.jiandan.generator.Generator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/target/classes/com/tony/jiandan/mockentities/generated/service/BandDataService.java
+INFO main com.tony.jiandan.generator.Generator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/target/classes/com/tony/jiandan/mockentities/generated/fetch/BandDataFetch.java
+INFO main com.tony.jiandan.generator.Generator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/target/classes/com/tony/jiandan/mockentities/generated/dao/EmployeeDao.java
+INFO main com.tony.jiandan.generator.Generator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/target/classes/com/tony/jiandan/mockentities/generated/service/EmployeeService.java
+INFO main com.tony.jiandan.generator.Generator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/target/classes/com/tony/jiandan/mockentities/generated/fetch/EmployeeFetch.java
+INFO main com.tony.jiandan.generator.Generator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/target/classes/com/tony/jiandan/mockentities/generated/dao/JobRoleDao.java
+INFO main com.tony.jiandan.generator.Generator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/target/classes/com/tony/jiandan/mockentities/generated/service/JobRoleService.java
+INFO main com.tony.jiandan.generator.Generator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/target/classes/com/tony/jiandan/mockentities/generated/fetch/JobRoleFetch.java
+INFO main com.tony.jiandan.generator.Generator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/target/classes/com/tony/jiandan/mockentities/generated/dao/ManagerDao.java
+INFO main com.tony.jiandan.generator.Generator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/target/classes/com/tony/jiandan/mockentities/generated/service/ManagerService.java
+INFO main com.tony.jiandan.generator.Generator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/target/classes/com/tony/jiandan/mockentities/generated/fetch/ManagerFetch.java
+INFO main com.tony.jiandan.generator.Generator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/target/classes/com/tony/jiandan/mockentities/generated/dao/MessageDao.java
+INFO main com.tony.jiandan.generator.Generator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/target/classes/com/tony/jiandan/mockentities/generated/service/MessageService.java
+INFO main com.tony.jiandan.generator.Generator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/target/classes/com/tony/jiandan/mockentities/generated/fetch/MessageFetch.java
+INFO main com.tony.jiandan.generator.Generator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/target/classes/com/tony/jiandan/mockentities/generated/dao/PBCDao.java
+INFO main com.tony.jiandan.generator.Generator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/target/classes/com/tony/jiandan/mockentities/generated/service/PBCService.java
+INFO main com.tony.jiandan.generator.Generator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/target/classes/com/tony/jiandan/mockentities/generated/fetch/PBCFetch.java
+INFO main com.tony.jiandan.generator.Generator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/target/classes/com/tony/jiandan/mockentities/generated/dao/RelationDao.java
+INFO main com.tony.jiandan.generator.Generator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/target/classes/com/tony/jiandan/mockentities/generated/service/RelationService.java
+INFO main com.tony.jiandan.generator.Generator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/target/classes/com/tony/jiandan/mockentities/generated/fetch/RelationFetch.java
+INFO main com.tony.jiandan.generator.Generator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/target/classes/com/tony/jiandan/mockentities/generated/dao/TeamDao.java
+INFO main com.tony.jiandan.generator.Generator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/target/classes/com/tony/jiandan/mockentities/generated/service/TeamService.java
+INFO main com.tony.jiandan.generator.Generator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/target/classes/com/tony/jiandan/mockentities/generated/fetch/TeamFetch.java
+INFO main com.tony.jiandan.generator.Generator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/target/classes/com/tony/jiandan/mojo/generated/dao/MainMojoDao.java
+INFO main com.tony.jiandan.generator.Generator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/target/classes/com/tony/jiandan/mojo/generated/service/MainMojoService.java
+INFO main com.tony.jiandan.generator.Generator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/target/classes/com/tony/jiandan/mojo/generated/fetch/MainMojoFetch.java
+INFO main com.tony.jiandan.generator.Generator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/src/main/generated/com/tony/jiandan/mockentities/generated/dao/BandDataDao.java
+INFO main com.tony.jiandan.generator.Generator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/src/main/generated/com/tony/jiandan/mockentities/generated/service/BandDataService.java
+INFO main com.tony.jiandan.generator.Generator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/src/main/generated/com/tony/jiandan/mockentities/generated/fetch/BandDataFetch.java
+INFO main com.tony.jiandan.generator.Generator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/src/main/generated/com/tony/jiandan/mockentities/generated/dao/EmployeeDao.java
+INFO main com.tony.jiandan.generator.Generator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/src/main/generated/com/tony/jiandan/mockentities/generated/service/EmployeeService.java
+INFO main com.tony.jiandan.generator.Generator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/src/main/generated/com/tony/jiandan/mockentities/generated/fetch/EmployeeFetch.java
+INFO main com.tony.jiandan.generator.Generator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/src/main/generated/com/tony/jiandan/mockentities/generated/dao/JobRoleDao.java
+INFO main com.tony.jiandan.generator.Generator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/src/main/generated/com/tony/jiandan/mockentities/generated/service/JobRoleService.java
+INFO main com.tony.jiandan.generator.Generator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/src/main/generated/com/tony/jiandan/mockentities/generated/fetch/JobRoleFetch.java
+INFO main com.tony.jiandan.generator.Generator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/src/main/generated/com/tony/jiandan/mockentities/generated/dao/ManagerDao.java
+INFO main com.tony.jiandan.generator.Generator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/src/main/generated/com/tony/jiandan/mockentities/generated/service/ManagerService.java
+INFO main com.tony.jiandan.generator.Generator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/src/main/generated/com/tony/jiandan/mockentities/generated/fetch/ManagerFetch.java
+INFO main com.tony.jiandan.generator.Generator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/src/main/generated/com/tony/jiandan/mockentities/generated/dao/MessageDao.java
+INFO main com.tony.jiandan.generator.Generator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/src/main/generated/com/tony/jiandan/mockentities/generated/service/MessageService.java
+INFO main com.tony.jiandan.generator.Generator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/src/main/generated/com/tony/jiandan/mockentities/generated/fetch/MessageFetch.java
+INFO main com.tony.jiandan.generator.Generator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/src/main/generated/com/tony/jiandan/mockentities/generated/dao/PBCDao.java
+INFO main com.tony.jiandan.generator.Generator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/src/main/generated/com/tony/jiandan/mockentities/generated/service/PBCService.java
+INFO main com.tony.jiandan.generator.Generator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/src/main/generated/com/tony/jiandan/mockentities/generated/fetch/PBCFetch.java
+INFO main com.tony.jiandan.generator.Generator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/src/main/generated/com/tony/jiandan/mockentities/generated/dao/RelationDao.java
+INFO main com.tony.jiandan.generator.Generator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/src/main/generated/com/tony/jiandan/mockentities/generated/service/RelationService.java
+INFO main com.tony.jiandan.generator.Generator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/src/main/generated/com/tony/jiandan/mockentities/generated/fetch/RelationFetch.java
+INFO main com.tony.jiandan.generator.Generator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/src/main/generated/com/tony/jiandan/mockentities/generated/dao/TeamDao.java
+INFO main com.tony.jiandan.generator.Generator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/src/main/generated/com/tony/jiandan/mockentities/generated/service/TeamService.java
+INFO main com.tony.jiandan.generator.Generator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/src/main/generated/com/tony/jiandan/mockentities/generated/fetch/TeamFetch.java
+INFO main com.tony.jiandan.generator.Generator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/src/main/generated/com/tony/jiandan/mojo/generated/dao/MainMojoDao.java
+INFO main com.tony.jiandan.generator.Generator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/src/main/generated/com/tony/jiandan/mojo/generated/service/MainMojoService.java
+INFO main com.tony.jiandan.generator.Generator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/src/main/generated/com/tony/jiandan/mojo/generated/fetch/MainMojoFetch.java
+INFO main com.tony.jiandan.generator.Generator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/src/generated/com/tony/jiandan/mockentities/generated/dao/BandDataDao.java
+INFO main com.tony.jiandan.generator.Generator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/src/generated/com/tony/jiandan/mockentities/generated/service/BandDataService.java
+INFO main com.tony.jiandan.generator.Generator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/src/generated/com/tony/jiandan/mockentities/generated/fetch/BandDataFetch.java
+INFO main com.tony.jiandan.generator.Generator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/src/generated/com/tony/jiandan/mockentities/generated/dao/EmployeeDao.java
+INFO main com.tony.jiandan.generator.Generator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/src/generated/com/tony/jiandan/mockentities/generated/service/EmployeeService.java
+INFO main com.tony.jiandan.generator.Generator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/src/generated/com/tony/jiandan/mockentities/generated/fetch/EmployeeFetch.java
+INFO main com.tony.jiandan.generator.Generator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/src/generated/com/tony/jiandan/mockentities/generated/dao/JobRoleDao.java
+INFO main com.tony.jiandan.generator.Generator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/src/generated/com/tony/jiandan/mockentities/generated/service/JobRoleService.java
+INFO main com.tony.jiandan.generator.Generator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/src/generated/com/tony/jiandan/mockentities/generated/fetch/JobRoleFetch.java
+INFO main com.tony.jiandan.generator.Generator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/src/generated/com/tony/jiandan/mockentities/generated/dao/ManagerDao.java
+INFO main com.tony.jiandan.generator.Generator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/src/generated/com/tony/jiandan/mockentities/generated/service/ManagerService.java
+INFO main com.tony.jiandan.generator.Generator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/src/generated/com/tony/jiandan/mockentities/generated/fetch/ManagerFetch.java
+INFO main com.tony.jiandan.generator.Generator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/src/generated/com/tony/jiandan/mockentities/generated/dao/MessageDao.java
+INFO main com.tony.jiandan.generator.Generator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/src/generated/com/tony/jiandan/mockentities/generated/service/MessageService.java
+INFO main com.tony.jiandan.generator.Generator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/src/generated/com/tony/jiandan/mockentities/generated/fetch/MessageFetch.java
+INFO main com.tony.jiandan.generator.Generator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/src/generated/com/tony/jiandan/mockentities/generated/dao/PBCDao.java
+INFO main com.tony.jiandan.generator.Generator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/src/generated/com/tony/jiandan/mockentities/generated/service/PBCService.java
+INFO main com.tony.jiandan.generator.Generator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/src/generated/com/tony/jiandan/mockentities/generated/fetch/PBCFetch.java
+INFO main com.tony.jiandan.generator.Generator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/src/generated/com/tony/jiandan/mockentities/generated/dao/RelationDao.java
+INFO main com.tony.jiandan.generator.Generator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/src/generated/com/tony/jiandan/mockentities/generated/service/RelationService.java
+INFO main com.tony.jiandan.generator.Generator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/src/generated/com/tony/jiandan/mockentities/generated/fetch/RelationFetch.java
+INFO main com.tony.jiandan.generator.Generator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/src/generated/com/tony/jiandan/mockentities/generated/dao/TeamDao.java
+INFO main com.tony.jiandan.generator.Generator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/src/generated/com/tony/jiandan/mockentities/generated/service/TeamService.java
+INFO main com.tony.jiandan.generator.Generator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/src/generated/com/tony/jiandan/mockentities/generated/fetch/TeamFetch.java
+INFO main com.tony.jiandan.generator.Generator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/src/generated/com/tony/jiandan/mojo/generated/dao/MainMojoDao.java
+INFO main com.tony.jiandan.generator.Generator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/src/generated/com/tony/jiandan/mojo/generated/service/MainMojoService.java
+INFO main com.tony.jiandan.generator.Generator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/src/generated/com/tony/jiandan/mojo/generated/fetch/MainMojoFetch.java
+INFO main com.tony.jiandan.generator.Generator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/src/generated/com/tony/jiandan/mockentities/generated/dao/BandDataDao.java
+INFO main com.tony.jiandan.generator.Generator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/src/generated/com/tony/jiandan/mockentities/generated/services/BandDataService.java
+INFO main com.tony.jiandan.generator.Generator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/src/generated/com/tony/jiandan/mockentities/generated/dao/EmployeeDao.java
+INFO main com.tony.jiandan.generator.Generator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/src/generated/com/tony/jiandan/mockentities/generated/services/EmployeeService.java
+INFO main com.tony.jiandan.generator.Generator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/src/generated/com/tony/jiandan/mockentities/generated/dao/JobRoleDao.java
+INFO main com.tony.jiandan.generator.Generator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/src/generated/com/tony/jiandan/mockentities/generated/services/JobRoleService.java
+INFO main com.tony.jiandan.generator.Generator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/src/generated/com/tony/jiandan/mockentities/generated/dao/ManagerDao.java
+INFO main com.tony.jiandan.generator.Generator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/src/generated/com/tony/jiandan/mockentities/generated/services/ManagerService.java
+INFO main com.tony.jiandan.generator.Generator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/src/generated/com/tony/jiandan/mockentities/generated/dao/MessageDao.java
+INFO main com.tony.jiandan.generator.Generator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/src/generated/com/tony/jiandan/mockentities/generated/services/MessageService.java
+INFO main com.tony.jiandan.generator.Generator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/src/generated/com/tony/jiandan/mockentities/generated/dao/PBCDao.java
+INFO main com.tony.jiandan.generator.Generator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/src/generated/com/tony/jiandan/mockentities/generated/services/PBCService.java
+INFO main com.tony.jiandan.generator.Generator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/src/generated/com/tony/jiandan/mockentities/generated/dao/RelationDao.java
+INFO main com.tony.jiandan.generator.Generator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/src/generated/com/tony/jiandan/mockentities/generated/services/RelationService.java
+INFO main com.tony.jiandan.generator.Generator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/src/generated/com/tony/jiandan/mockentities/generated/dao/TeamDao.java
+INFO main com.tony.jiandan.generator.Generator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/src/generated/com/tony/jiandan/mockentities/generated/services/TeamService.java
+INFO main com.tony.jiandan.generator.Generator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/src/generated/com/tony/jiandan/mojo/generated/dao/MainMojoDao.java
+INFO main com.tony.jiandan.generator.Generator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/src/generated/com/tony/jiandan/mojo/generated/services/MainMojoService.java
+INFO main com.tony.jiandan.generator.Generator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/src/generated/com/tony/jiandan/mockentities/generated/dao/BandDataDao.java
+INFO main com.tony.jiandan.generator.Generator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/src/generated/com/tony/jiandan/mockentities/generated/services/BandDataService.java
+INFO main com.tony.jiandan.generator.Generator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/src/generated/com/tony/jiandan/mockentities/generated/dao/EmployeeDao.java
+INFO main com.tony.jiandan.generator.Generator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/src/generated/com/tony/jiandan/mockentities/generated/services/EmployeeService.java
+INFO main com.tony.jiandan.generator.Generator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/src/generated/com/tony/jiandan/mockentities/generated/dao/JobRoleDao.java
+INFO main com.tony.jiandan.generator.Generator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/src/generated/com/tony/jiandan/mockentities/generated/services/JobRoleService.java
+INFO main com.tony.jiandan.generator.Generator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/src/generated/com/tony/jiandan/mockentities/generated/dao/ManagerDao.java
+INFO main com.tony.jiandan.generator.Generator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/src/generated/com/tony/jiandan/mockentities/generated/services/ManagerService.java
+INFO main com.tony.jiandan.generator.Generator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/src/generated/com/tony/jiandan/mockentities/generated/dao/MessageDao.java
+INFO main com.tony.jiandan.generator.Generator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/src/generated/com/tony/jiandan/mockentities/generated/services/MessageService.java
+INFO main com.tony.jiandan.generator.Generator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/src/generated/com/tony/jiandan/mockentities/generated/dao/PBCDao.java
+INFO main com.tony.jiandan.generator.Generator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/src/generated/com/tony/jiandan/mockentities/generated/services/PBCService.java
+INFO main com.tony.jiandan.generator.Generator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/src/generated/com/tony/jiandan/mockentities/generated/dao/RelationDao.java
+INFO main com.tony.jiandan.generator.Generator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/src/generated/com/tony/jiandan/mockentities/generated/services/RelationService.java
+INFO main com.tony.jiandan.generator.Generator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/src/generated/com/tony/jiandan/mockentities/generated/dao/TeamDao.java
+INFO main com.tony.jiandan.generator.Generator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/src/generated/com/tony/jiandan/mockentities/generated/services/TeamService.java
+INFO main com.tony.jiandan.generator.Generator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/src/generated/com/tony/jiandan/mojo/generated/dao/MainMojoDao.java
+INFO main com.tony.jiandan.generator.Generator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/src/generated/com/tony/jiandan/mojo/generated/services/MainMojoService.java
+INFO main com.tony.jiandan.generator.Generator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/src/generated/com/tony/jiandan/mockentities/generated/dao/BandDataDao.java
+INFO main com.tony.jiandan.generator.Generator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/src/generated/com/tony/jiandan/mockentities/generated/services/BandDataService.java
+INFO main com.tony.jiandan.generator.Generator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/src/generated/com/tony/jiandan/mockentities/generated/dao/EmployeeDao.java
+INFO main com.tony.jiandan.generator.Generator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/src/generated/com/tony/jiandan/mockentities/generated/services/EmployeeService.java
+INFO main com.tony.jiandan.generator.Generator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/src/generated/com/tony/jiandan/mockentities/generated/dao/JobRoleDao.java
+INFO main com.tony.jiandan.generator.Generator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/src/generated/com/tony/jiandan/mockentities/generated/services/JobRoleService.java
+INFO main com.tony.jiandan.generator.Generator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/src/generated/com/tony/jiandan/mockentities/generated/dao/ManagerDao.java
+INFO main com.tony.jiandan.generator.Generator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/src/generated/com/tony/jiandan/mockentities/generated/services/ManagerService.java
+INFO main com.tony.jiandan.generator.Generator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/src/generated/com/tony/jiandan/mockentities/generated/dao/MessageDao.java
+INFO main com.tony.jiandan.generator.Generator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/src/generated/com/tony/jiandan/mockentities/generated/services/MessageService.java
+INFO main com.tony.jiandan.generator.Generator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/src/generated/com/tony/jiandan/mockentities/generated/dao/PBCDao.java
+INFO main com.tony.jiandan.generator.Generator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/src/generated/com/tony/jiandan/mockentities/generated/services/PBCService.java
+INFO main com.tony.jiandan.generator.Generator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/src/generated/com/tony/jiandan/mockentities/generated/dao/RelationDao.java
+INFO main com.tony.jiandan.generator.Generator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/src/generated/com/tony/jiandan/mockentities/generated/services/RelationService.java
+INFO main com.tony.jiandan.generator.Generator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/src/generated/com/tony/jiandan/mockentities/generated/dao/TeamDao.java
+INFO main com.tony.jiandan.generator.Generator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/src/generated/com/tony/jiandan/mockentities/generated/services/TeamService.java
+INFO main com.tony.jiandan.generator.Generator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/src/generated/com/tony/jiandan/mockentities/generated/dao/BandDataDao.java
+INFO main com.tony.jiandan.generator.Generator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/src/generated/com/tony/jiandan/mockentities/generated/services/BandDataService.java
+INFO main com.tony.jiandan.generator.Generator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/src/generated/com/tony/jiandan/mockentities/generated/dao/EmployeeDao.java
+INFO main com.tony.jiandan.generator.Generator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/src/generated/com/tony/jiandan/mockentities/generated/services/EmployeeService.java
+INFO main com.tony.jiandan.generator.Generator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/src/generated/com/tony/jiandan/mockentities/generated/dao/JobRoleDao.java
+INFO main com.tony.jiandan.generator.Generator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/src/generated/com/tony/jiandan/mockentities/generated/services/JobRoleService.java
+INFO main com.tony.jiandan.generator.Generator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/src/generated/com/tony/jiandan/mockentities/generated/dao/ManagerDao.java
+INFO main com.tony.jiandan.generator.Generator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/src/generated/com/tony/jiandan/mockentities/generated/services/ManagerService.java
+INFO main com.tony.jiandan.generator.Generator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/src/generated/com/tony/jiandan/mockentities/generated/dao/MessageDao.java
+INFO main com.tony.jiandan.generator.Generator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/src/generated/com/tony/jiandan/mockentities/generated/services/MessageService.java
+INFO main com.tony.jiandan.generator.Generator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/src/generated/com/tony/jiandan/mockentities/generated/dao/PBCDao.java
+INFO main com.tony.jiandan.generator.Generator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/src/generated/com/tony/jiandan/mockentities/generated/services/PBCService.java
+INFO main com.tony.jiandan.generator.Generator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/src/generated/com/tony/jiandan/mockentities/generated/dao/RelationDao.java
+INFO main com.tony.jiandan.generator.Generator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/src/generated/com/tony/jiandan/mockentities/generated/services/RelationService.java
+INFO main com.tony.jiandan.generator.Generator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/src/generated/com/tony/jiandan/mockentities/generated/dao/TeamDao.java
+INFO main com.tony.jiandan.generator.Generator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/src/generated/com/tony/jiandan/mockentities/generated/services/TeamService.java
+INFO main com.tony.jiandan.generator.Generator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/src/generated/com/tony/jiandan/mockentities/generated/dao/BandDataDao.java
+INFO main com.tony.jiandan.generator.Generator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/src/generated/com/tony/jiandan/mockentities/generated/services/BandDataService.java
+INFO main com.tony.jiandan.generator.Generator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/src/generated/com/tony/jiandan/mockentities/generated/dao/EmployeeDao.java
+INFO main com.tony.jiandan.generator.Generator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/src/generated/com/tony/jiandan/mockentities/generated/services/EmployeeService.java
+INFO main com.tony.jiandan.generator.Generator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/src/generated/com/tony/jiandan/mockentities/generated/dao/JobRoleDao.java
+INFO main com.tony.jiandan.generator.Generator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/src/generated/com/tony/jiandan/mockentities/generated/services/JobRoleService.java
+INFO main com.tony.jiandan.generator.Generator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/src/generated/com/tony/jiandan/mockentities/generated/dao/ManagerDao.java
+INFO main com.tony.jiandan.generator.Generator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/src/generated/com/tony/jiandan/mockentities/generated/services/ManagerService.java
+INFO main com.tony.jiandan.generator.Generator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/src/generated/com/tony/jiandan/mockentities/generated/dao/MessageDao.java
+INFO main com.tony.jiandan.generator.Generator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/src/generated/com/tony/jiandan/mockentities/generated/services/MessageService.java
+INFO main com.tony.jiandan.generator.Generator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/src/generated/com/tony/jiandan/mockentities/generated/dao/PBCDao.java
+INFO main com.tony.jiandan.generator.Generator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/src/generated/com/tony/jiandan/mockentities/generated/services/PBCService.java
+INFO main com.tony.jiandan.generator.Generator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/src/generated/com/tony/jiandan/mockentities/generated/dao/RelationDao.java
+INFO main com.tony.jiandan.generator.Generator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/src/generated/com/tony/jiandan/mockentities/generated/services/RelationService.java
+INFO main com.tony.jiandan.generator.Generator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/src/generated/com/tony/jiandan/mockentities/generated/dao/TeamDao.java
+INFO main com.tony.jiandan.generator.Generator - creating:/Users/wuyuehao/workspace-socialb2b/socialb2b/jiandan/src/generated/com/tony/jiandan/mockentities/generated/services/TeamService.java

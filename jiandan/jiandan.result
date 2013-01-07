@@ -1,0 +1,29 @@
+INFO main com.tony.jiandan.navigator.FileNavigator - Generated File: /Users/wuyuehao/workspace/socialb2b/jiandan/generatedsrc/com/tony/minihrm/beans/dao/BandDataDao.java
+INFO main com.tony.jiandan.navigator.FileNavigator - Generated File: /Users/wuyuehao/workspace/socialb2b/jiandan/generatedsrc/com/tony/minihrm/beans/service/BandDataService.java
+INFO main com.tony.jiandan.navigator.FileNavigator - Generated File: /Users/wuyuehao/workspace/socialb2b/jiandan/generatedsrc/com/tony/minihrm/beans/dao/EmployeeDao.java
+INFO main com.tony.jiandan.navigator.FileNavigator - Generated File: /Users/wuyuehao/workspace/socialb2b/jiandan/generatedsrc/com/tony/minihrm/beans/service/EmployeeService.java
+INFO main com.tony.jiandan.navigator.FileNavigator - Generated File: /Users/wuyuehao/workspace/socialb2b/jiandan/generatedsrc/com/tony/minihrm/beans/dao/JobRoleDao.java
+INFO main com.tony.jiandan.navigator.FileNavigator - Generated File: /Users/wuyuehao/workspace/socialb2b/jiandan/generatedsrc/com/tony/minihrm/beans/service/JobRoleService.java
+ERROR main com.tony.jiandan.navigator.FileNavigator - Code: compiler.err.doesnt.exist
+Kind: ERROR
+Position: 303
+Start Position: 258
+End Position: 315
+Source: /Users/wuyuehao/workspace/nexthrm/src/main/java/com/tony/minihrm/beans/Manager.java
+Message: /Users/wuyuehao/workspace/nexthrm/src/main/java/com/tony/minihrm/beans/Manager.java:11: 软件包 org.springframework.security.core.userdetails 不存在
+ERROR main com.tony.jiandan.navigator.FileNavigator - Code: compiler.err.cant.resolve
+Kind: ERROR
+Position: 361
+Start Position: 361
+End Position: 372
+Source: /Users/wuyuehao/workspace/nexthrm/src/main/java/com/tony/minihrm/beans/Manager.java
+Message: /Users/wuyuehao/workspace/nexthrm/src/main/java/com/tony/minihrm/beans/Manager.java:14: 找不到符号
+符号： 类 UserDetails
+INFO main com.tony.jiandan.navigator.FileNavigator - Generated File: /Users/wuyuehao/workspace/socialb2b/jiandan/generatedsrc/com/tony/minihrm/beans/dao/MessageDao.java
+INFO main com.tony.jiandan.navigator.FileNavigator - Generated File: /Users/wuyuehao/workspace/socialb2b/jiandan/generatedsrc/com/tony/minihrm/beans/service/MessageService.java
+INFO main com.tony.jiandan.navigator.FileNavigator - Generated File: /Users/wuyuehao/workspace/socialb2b/jiandan/generatedsrc/com/tony/minihrm/beans/dao/PBCDao.java
+INFO main com.tony.jiandan.navigator.FileNavigator - Generated File: /Users/wuyuehao/workspace/socialb2b/jiandan/generatedsrc/com/tony/minihrm/beans/service/PBCService.java
+INFO main com.tony.jiandan.navigator.FileNavigator - Generated File: /Users/wuyuehao/workspace/socialb2b/jiandan/generatedsrc/com/tony/minihrm/beans/dao/RelationDao.java
+INFO main com.tony.jiandan.navigator.FileNavigator - Generated File: /Users/wuyuehao/workspace/socialb2b/jiandan/generatedsrc/com/tony/minihrm/beans/service/RelationService.java
+INFO main com.tony.jiandan.navigator.FileNavigator - Generated File: /Users/wuyuehao/workspace/socialb2b/jiandan/generatedsrc/com/tony/minihrm/beans/dao/TeamDao.java
+INFO main com.tony.jiandan.navigator.FileNavigator - Generated File: /Users/wuyuehao/workspace/socialb2b/jiandan/generatedsrc/com/tony/minihrm/beans/service/TeamService.java

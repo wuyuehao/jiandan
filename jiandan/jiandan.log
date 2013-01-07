@@ -1,0 +1,185 @@
+DEBUG main com.tony.jiandan.navigator.FileNavigator - found :/Users/wuyuehao/workspace/nexthrm/src/main/java/com
+DEBUG main com.tony.jiandan.navigator.FileNavigator - found :/Users/wuyuehao/workspace/nexthrm/src/main/java/com/tony
+DEBUG main com.tony.jiandan.navigator.FileNavigator - found :/Users/wuyuehao/workspace/nexthrm/src/main/java/com/tony/minihrm
+DEBUG main com.tony.jiandan.navigator.FileNavigator - found :/Users/wuyuehao/workspace/nexthrm/src/main/java/com/tony/minihrm/beans
+DEBUG main com.tony.jiandan.navigator.FileNavigator - found :/Users/wuyuehao/workspace/nexthrm/src/main/java/com/tony/minihrm/beans/BandData.java
+DEBUG main com.tony.jiandan.navigator.FileNavigator - Class Defined: class com.tony.minihrm.beans.BandData
+DEBUG main com.tony.jiandan.parser.ClassParser - id
+DEBUG main com.tony.jiandan.parser.ClassParser - interface javax.persistence.Id
+DEBUG main com.tony.jiandan.parser.ClassParser - interface javax.persistence.GeneratedValue
+DEBUG main com.tony.jiandan.parser.ClassParser - interface javax.persistence.Column
+DEBUG main com.tony.jiandan.parser.ClassParser - band
+DEBUG main com.tony.jiandan.parser.ClassParser - interface javax.validation.constraints.NotNull
+DEBUG main com.tony.jiandan.parser.ClassParser - min
+DEBUG main com.tony.jiandan.parser.ClassParser - interface javax.validation.constraints.NotNull
+DEBUG main com.tony.jiandan.parser.ClassParser - max
+DEBUG main com.tony.jiandan.parser.ClassParser - interface javax.validation.constraints.NotNull
+DEBUG main com.tony.jiandan.parser.ClassParser - mid
+DEBUG main com.tony.jiandan.parser.ClassParser - interface javax.persistence.Transient
+DEBUG main freemarker.cache - Could not find template in cache, creating new one; id=["Dao.ftl"["zh_CN",EUC_CN,parsed] ]
+DEBUG main freemarker.cache - Compiling FreeMarker template "Dao.ftl"["zh_CN",EUC_CN,parsed]  from "file:/Users/wuyuehao/workspace/socialb2b/jiandan/target/classes/template/Dao.ftl"
+DEBUG main com.tony.jiandan.generator.DaoGenerator - creating:/Users/wuyuehao/workspace/socialb2b/jiandan/generatedsrc/com/tony/minihrm/beans/dao/BandDataDao.java
+DEBUG main com.tony.jiandan.generator.DaoGenerator - File exist: BandDataDao.java
+DEBUG main com.tony.jiandan.navigator.FileNavigator - Generated File: /Users/wuyuehao/workspace/socialb2b/jiandan/generatedsrc/com/tony/minihrm/beans/dao/BandDataDao.java
+DEBUG main freemarker.cache - Could not find template in cache, creating new one; id=["RestService.ftl"["zh_CN",EUC_CN,parsed] ]
+DEBUG main freemarker.cache - Compiling FreeMarker template "RestService.ftl"["zh_CN",EUC_CN,parsed]  from "file:/Users/wuyuehao/workspace/socialb2b/jiandan/target/classes/template/RestService.ftl"
+DEBUG main com.tony.jiandan.generator.RestGenerator - creating:/Users/wuyuehao/workspace/socialb2b/jiandan/generatedsrc/com/tony/minihrm/beans/service/BandDataService.java
+DEBUG main com.tony.jiandan.generator.RestGenerator - File exist: BandDataService.java
+DEBUG main com.tony.jiandan.navigator.FileNavigator - Generated File: /Users/wuyuehao/workspace/socialb2b/jiandan/generatedsrc/com/tony/minihrm/beans/service/BandDataService.java
+DEBUG main com.tony.jiandan.navigator.FileNavigator - found :/Users/wuyuehao/workspace/nexthrm/src/main/java/com/tony/minihrm/beans/dao
+DEBUG main com.tony.jiandan.navigator.FileNavigator - found :/Users/wuyuehao/workspace/nexthrm/src/main/java/com/tony/minihrm/beans/Employee.java
+DEBUG main com.tony.jiandan.navigator.FileNavigator - Class Defined: class com.tony.minihrm.beans.Employee
+DEBUG main com.tony.jiandan.parser.ClassParser - id
+DEBUG main com.tony.jiandan.parser.ClassParser - interface javax.persistence.Id
+DEBUG main com.tony.jiandan.parser.ClassParser - interface javax.persistence.GeneratedValue
+DEBUG main com.tony.jiandan.parser.ClassParser - interface javax.persistence.Column
+DEBUG main com.tony.jiandan.parser.ClassParser - version
+DEBUG main com.tony.jiandan.parser.ClassParser - interface javax.persistence.Version
+DEBUG main com.tony.jiandan.parser.ClassParser - interface javax.persistence.Column
+DEBUG main com.tony.jiandan.parser.ClassParser - remark
+DEBUG main com.tony.jiandan.parser.ClassParser - name
+DEBUG main com.tony.jiandan.parser.ClassParser - sn
+DEBUG main com.tony.jiandan.parser.ClassParser - personelId
+DEBUG main com.tony.jiandan.parser.ClassParser - notesid
+DEBUG main com.tony.jiandan.parser.ClassParser - band
+DEBUG main com.tony.jiandan.parser.ClassParser - email
+DEBUG main com.tony.jiandan.parser.ClassParser - englishName
+DEBUG main com.tony.jiandan.parser.ClassParser - salary
+DEBUG main com.tony.jiandan.parser.ClassParser - onboardDate
+DEBUG main com.tony.jiandan.parser.ClassParser - interface javax.persistence.Temporal
+DEBUG main com.tony.jiandan.parser.ClassParser - interface org.springframework.format.annotation.DateTimeFormat
+DEBUG main com.tony.jiandan.parser.ClassParser - onbandDate
+DEBUG main com.tony.jiandan.parser.ClassParser - interface javax.persistence.Temporal
+DEBUG main com.tony.jiandan.parser.ClassParser - interface org.springframework.format.annotation.DateTimeFormat
+DEBUG main com.tony.jiandan.parser.ClassParser - onteamDate
+DEBUG main com.tony.jiandan.parser.ClassParser - interface javax.persistence.Temporal
+DEBUG main com.tony.jiandan.parser.ClassParser - interface org.springframework.format.annotation.DateTimeFormat
+DEBUG main com.tony.jiandan.parser.ClassParser - manager
+DEBUG main com.tony.jiandan.parser.ClassParser - gender
+DEBUG main com.tony.jiandan.parser.ClassParser - jobRole
+DEBUG main com.tony.jiandan.parser.ClassParser - team
+DEBUG main com.tony.jiandan.parser.ClassParser - pbc1
+DEBUG main com.tony.jiandan.parser.ClassParser - pbc2
+DEBUG main com.tony.jiandan.parser.ClassParser - pbc3
+DEBUG main com.tony.jiandan.parser.ClassParser - birthday
+DEBUG main com.tony.jiandan.parser.ClassParser - interface javax.persistence.Temporal
+DEBUG main com.tony.jiandan.parser.ClassParser - interface org.springframework.format.annotation.DateTimeFormat
+DEBUG main com.tony.jiandan.parser.ClassParser - university
+DEBUG main com.tony.jiandan.parser.ClassParser - mp
+DEBUG main com.tony.jiandan.parser.ClassParser - weibo
+DEBUG main com.tony.jiandan.parser.ClassParser - hometown
+DEBUG main com.tony.jiandan.parser.ClassParser - registerTime
+DEBUG main com.tony.jiandan.parser.ClassParser - interface javax.persistence.Temporal
+DEBUG main com.tony.jiandan.parser.ClassParser - interface org.springframework.format.annotation.DateTimeFormat
+DEBUG main freemarker.cache - "Dao.ftl"["zh_CN",EUC_CN,parsed]  cached copy not yet stale; using cached.
+DEBUG main com.tony.jiandan.generator.DaoGenerator - creating:/Users/wuyuehao/workspace/socialb2b/jiandan/generatedsrc/com/tony/minihrm/beans/dao/EmployeeDao.java
+DEBUG main com.tony.jiandan.generator.DaoGenerator - File exist: EmployeeDao.java
+DEBUG main com.tony.jiandan.navigator.FileNavigator - Generated File: /Users/wuyuehao/workspace/socialb2b/jiandan/generatedsrc/com/tony/minihrm/beans/dao/EmployeeDao.java
+DEBUG main freemarker.cache - "RestService.ftl"["zh_CN",EUC_CN,parsed]  cached copy not yet stale; using cached.
+DEBUG main com.tony.jiandan.generator.RestGenerator - creating:/Users/wuyuehao/workspace/socialb2b/jiandan/generatedsrc/com/tony/minihrm/beans/service/EmployeeService.java
+DEBUG main com.tony.jiandan.generator.RestGenerator - File exist: EmployeeService.java
+DEBUG main com.tony.jiandan.navigator.FileNavigator - Generated File: /Users/wuyuehao/workspace/socialb2b/jiandan/generatedsrc/com/tony/minihrm/beans/service/EmployeeService.java
+DEBUG main com.tony.jiandan.navigator.FileNavigator - found :/Users/wuyuehao/workspace/nexthrm/src/main/java/com/tony/minihrm/beans/JobRole.java
+DEBUG main com.tony.jiandan.navigator.FileNavigator - Class Defined: class com.tony.minihrm.beans.JobRole
+DEBUG main com.tony.jiandan.parser.ClassParser - id
+DEBUG main com.tony.jiandan.parser.ClassParser - interface javax.persistence.Id
+DEBUG main com.tony.jiandan.parser.ClassParser - interface javax.persistence.GeneratedValue
+DEBUG main com.tony.jiandan.parser.ClassParser - interface javax.persistence.Column
+DEBUG main com.tony.jiandan.parser.ClassParser - jobRole
+DEBUG main freemarker.cache - "Dao.ftl"["zh_CN",EUC_CN,parsed]  cached copy not yet stale; using cached.
+DEBUG main com.tony.jiandan.generator.DaoGenerator - creating:/Users/wuyuehao/workspace/socialb2b/jiandan/generatedsrc/com/tony/minihrm/beans/dao/JobRoleDao.java
+DEBUG main com.tony.jiandan.generator.DaoGenerator - File exist: JobRoleDao.java
+DEBUG main com.tony.jiandan.navigator.FileNavigator - Generated File: /Users/wuyuehao/workspace/socialb2b/jiandan/generatedsrc/com/tony/minihrm/beans/dao/JobRoleDao.java
+DEBUG main freemarker.cache - "RestService.ftl"["zh_CN",EUC_CN,parsed]  cached copy not yet stale; using cached.
+DEBUG main com.tony.jiandan.generator.RestGenerator - creating:/Users/wuyuehao/workspace/socialb2b/jiandan/generatedsrc/com/tony/minihrm/beans/service/JobRoleService.java
+DEBUG main com.tony.jiandan.generator.RestGenerator - File exist: JobRoleService.java
+DEBUG main com.tony.jiandan.navigator.FileNavigator - Generated File: /Users/wuyuehao/workspace/socialb2b/jiandan/generatedsrc/com/tony/minihrm/beans/service/JobRoleService.java
+DEBUG main com.tony.jiandan.navigator.FileNavigator - found :/Users/wuyuehao/workspace/nexthrm/src/main/java/com/tony/minihrm/beans/Manager.java
+ERROR main com.tony.jiandan.navigator.FileNavigator - Code: compiler.err.doesnt.exist
+Kind: ERROR
+Position: 303
+Start Position: 258
+End Position: 315
+Source: /Users/wuyuehao/workspace/nexthrm/src/main/java/com/tony/minihrm/beans/Manager.java
+Message: /Users/wuyuehao/workspace/nexthrm/src/main/java/com/tony/minihrm/beans/Manager.java:11: 软件包 org.springframework.security.core.userdetails 不存在
+ERROR main com.tony.jiandan.navigator.FileNavigator - Code: compiler.err.cant.resolve
+Kind: ERROR
+Position: 361
+Start Position: 361
+End Position: 372
+Source: /Users/wuyuehao/workspace/nexthrm/src/main/java/com/tony/minihrm/beans/Manager.java
+Message: /Users/wuyuehao/workspace/nexthrm/src/main/java/com/tony/minihrm/beans/Manager.java:14: 找不到符号
+符号： 类 UserDetails
+DEBUG main com.tony.jiandan.navigator.FileNavigator - found :/Users/wuyuehao/workspace/nexthrm/src/main/java/com/tony/minihrm/beans/Message.java
+DEBUG main com.tony.jiandan.navigator.FileNavigator - Class Defined: class com.tony.minihrm.beans.Message
+DEBUG main com.tony.jiandan.parser.ClassParser - id
+DEBUG main com.tony.jiandan.parser.ClassParser - interface javax.persistence.Id
+DEBUG main com.tony.jiandan.parser.ClassParser - interface javax.persistence.GeneratedValue
+DEBUG main com.tony.jiandan.parser.ClassParser - interface javax.persistence.Column
+DEBUG main com.tony.jiandan.parser.ClassParser - sender
+DEBUG main com.tony.jiandan.parser.ClassParser - receiver
+DEBUG main com.tony.jiandan.parser.ClassParser - msg
+DEBUG main com.tony.jiandan.parser.ClassParser - at
+DEBUG main com.tony.jiandan.parser.ClassParser - time
+DEBUG main com.tony.jiandan.parser.ClassParser - interface javax.persistence.Temporal
+DEBUG main com.tony.jiandan.parser.ClassParser - interface org.springframework.format.annotation.DateTimeFormat
+DEBUG main freemarker.cache - "Dao.ftl"["zh_CN",EUC_CN,parsed]  cached copy not yet stale; using cached.
+DEBUG main com.tony.jiandan.generator.DaoGenerator - creating:/Users/wuyuehao/workspace/socialb2b/jiandan/generatedsrc/com/tony/minihrm/beans/dao/MessageDao.java
+DEBUG main com.tony.jiandan.generator.DaoGenerator - File exist: MessageDao.java
+DEBUG main com.tony.jiandan.navigator.FileNavigator - Generated File: /Users/wuyuehao/workspace/socialb2b/jiandan/generatedsrc/com/tony/minihrm/beans/dao/MessageDao.java
+DEBUG main freemarker.cache - "RestService.ftl"["zh_CN",EUC_CN,parsed]  cached copy not yet stale; using cached.
+DEBUG main com.tony.jiandan.generator.RestGenerator - creating:/Users/wuyuehao/workspace/socialb2b/jiandan/generatedsrc/com/tony/minihrm/beans/service/MessageService.java
+DEBUG main com.tony.jiandan.generator.RestGenerator - File exist: MessageService.java
+DEBUG main com.tony.jiandan.navigator.FileNavigator - Generated File: /Users/wuyuehao/workspace/socialb2b/jiandan/generatedsrc/com/tony/minihrm/beans/service/MessageService.java
+DEBUG main com.tony.jiandan.navigator.FileNavigator - found :/Users/wuyuehao/workspace/nexthrm/src/main/java/com/tony/minihrm/beans/PBC.java
+DEBUG main com.tony.jiandan.navigator.FileNavigator - Class Defined: class com.tony.minihrm.beans.PBC
+DEBUG main com.tony.jiandan.parser.ClassParser - id
+DEBUG main com.tony.jiandan.parser.ClassParser - interface javax.persistence.Id
+DEBUG main com.tony.jiandan.parser.ClassParser - interface javax.persistence.GeneratedValue
+DEBUG main com.tony.jiandan.parser.ClassParser - interface javax.persistence.Column
+DEBUG main com.tony.jiandan.parser.ClassParser - value
+DEBUG main freemarker.cache - "Dao.ftl"["zh_CN",EUC_CN,parsed]  cached copy not yet stale; using cached.
+DEBUG main com.tony.jiandan.generator.DaoGenerator - creating:/Users/wuyuehao/workspace/socialb2b/jiandan/generatedsrc/com/tony/minihrm/beans/dao/PBCDao.java
+DEBUG main com.tony.jiandan.generator.DaoGenerator - File exist: PBCDao.java
+DEBUG main com.tony.jiandan.navigator.FileNavigator - Generated File: /Users/wuyuehao/workspace/socialb2b/jiandan/generatedsrc/com/tony/minihrm/beans/dao/PBCDao.java
+DEBUG main freemarker.cache - "RestService.ftl"["zh_CN",EUC_CN,parsed]  cached copy not yet stale; using cached.
+DEBUG main com.tony.jiandan.generator.RestGenerator - creating:/Users/wuyuehao/workspace/socialb2b/jiandan/generatedsrc/com/tony/minihrm/beans/service/PBCService.java
+DEBUG main com.tony.jiandan.generator.RestGenerator - File exist: PBCService.java
+DEBUG main com.tony.jiandan.navigator.FileNavigator - Generated File: /Users/wuyuehao/workspace/socialb2b/jiandan/generatedsrc/com/tony/minihrm/beans/service/PBCService.java
+DEBUG main com.tony.jiandan.navigator.FileNavigator - found :/Users/wuyuehao/workspace/nexthrm/src/main/java/com/tony/minihrm/beans/Relation.java
+DEBUG main com.tony.jiandan.navigator.FileNavigator - Class Defined: class com.tony.minihrm.beans.Relation
+DEBUG main com.tony.jiandan.parser.ClassParser - id
+DEBUG main com.tony.jiandan.parser.ClassParser - interface javax.persistence.Id
+DEBUG main com.tony.jiandan.parser.ClassParser - interface javax.persistence.GeneratedValue
+DEBUG main com.tony.jiandan.parser.ClassParser - interface javax.persistence.Column
+DEBUG main com.tony.jiandan.parser.ClassParser - username
+DEBUG main com.tony.jiandan.parser.ClassParser - interface javax.validation.constraints.NotNull
+DEBUG main com.tony.jiandan.parser.ClassParser - following
+DEBUG main com.tony.jiandan.parser.ClassParser - fans
+DEBUG main freemarker.cache - "Dao.ftl"["zh_CN",EUC_CN,parsed]  cached copy not yet stale; using cached.
+DEBUG main com.tony.jiandan.generator.DaoGenerator - creating:/Users/wuyuehao/workspace/socialb2b/jiandan/generatedsrc/com/tony/minihrm/beans/dao/RelationDao.java
+DEBUG main com.tony.jiandan.generator.DaoGenerator - File exist: RelationDao.java
+DEBUG main com.tony.jiandan.navigator.FileNavigator - Generated File: /Users/wuyuehao/workspace/socialb2b/jiandan/generatedsrc/com/tony/minihrm/beans/dao/RelationDao.java
+DEBUG main freemarker.cache - "RestService.ftl"["zh_CN",EUC_CN,parsed]  cached copy not yet stale; using cached.
+DEBUG main com.tony.jiandan.generator.RestGenerator - creating:/Users/wuyuehao/workspace/socialb2b/jiandan/generatedsrc/com/tony/minihrm/beans/service/RelationService.java
+DEBUG main com.tony.jiandan.generator.RestGenerator - File exist: RelationService.java
+DEBUG main com.tony.jiandan.navigator.FileNavigator - Generated File: /Users/wuyuehao/workspace/socialb2b/jiandan/generatedsrc/com/tony/minihrm/beans/service/RelationService.java
+DEBUG main com.tony.jiandan.navigator.FileNavigator - found :/Users/wuyuehao/workspace/nexthrm/src/main/java/com/tony/minihrm/beans/Team.java
+DEBUG main com.tony.jiandan.navigator.FileNavigator - Class Defined: class com.tony.minihrm.beans.Team
+DEBUG main com.tony.jiandan.parser.ClassParser - id
+DEBUG main com.tony.jiandan.parser.ClassParser - interface javax.persistence.Id
+DEBUG main com.tony.jiandan.parser.ClassParser - interface javax.persistence.GeneratedValue
+DEBUG main com.tony.jiandan.parser.ClassParser - interface javax.persistence.Column
+DEBUG main com.tony.jiandan.parser.ClassParser - value
+DEBUG main freemarker.cache - "Dao.ftl"["zh_CN",EUC_CN,parsed]  cached copy not yet stale; using cached.
+DEBUG main com.tony.jiandan.generator.DaoGenerator - creating:/Users/wuyuehao/workspace/socialb2b/jiandan/generatedsrc/com/tony/minihrm/beans/dao/TeamDao.java
+DEBUG main com.tony.jiandan.generator.DaoGenerator - File exist: TeamDao.java
+DEBUG main com.tony.jiandan.navigator.FileNavigator - Generated File: /Users/wuyuehao/workspace/socialb2b/jiandan/generatedsrc/com/tony/minihrm/beans/dao/TeamDao.java
+DEBUG main freemarker.cache - "RestService.ftl"["zh_CN",EUC_CN,parsed]  cached copy not yet stale; using cached.
+DEBUG main com.tony.jiandan.generator.RestGenerator - creating:/Users/wuyuehao/workspace/socialb2b/jiandan/generatedsrc/com/tony/minihrm/beans/service/TeamService.java
+DEBUG main com.tony.jiandan.generator.RestGenerator - File exist: TeamService.java
+DEBUG main com.tony.jiandan.navigator.FileNavigator - Generated File: /Users/wuyuehao/workspace/socialb2b/jiandan/generatedsrc/com/tony/minihrm/beans/service/TeamService.java
+DEBUG main com.tony.jiandan.navigator.FileNavigator - found :/Users/wuyuehao/workspace/nexthrm/src/main/java/com/tony/minihrm/beans/validator
+DEBUG main com.tony.jiandan.navigator.FileNavigator - found :/Users/wuyuehao/workspace/nexthrm/src/main/java/com/tony/minihrm/services
+DEBUG main com.tony.jiandan.navigator.FileNavigator - found :/Users/wuyuehao/workspace/nexthrm/src/main/java/com/tony/minihrm/util
+DEBUG main com.tony.jiandan.navigator.FileNavigator - found :/Users/wuyuehao/workspace/nexthrm/src/main/java/com/tony/minihrm/web
